@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+/* Modal CSS */
+
+.container{
+  display:Flex;
+  gap:10;
+  justify-content:space-between;  
+}
+
+.container > div  {
+  width: 25%;
+}
+
+.spantwo{
+ text-align: right;
+}
+
+/* formModal CSS */
+
+form > div{
+  width: 50%;  
+}
+
+form{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.forminput{
+  height: 35px;
+  width: 250px;
+  margin: 10px;
+  border: 1.3px solid rgb(203,203,203);
+  border-radius: 2px;
+}
+
+

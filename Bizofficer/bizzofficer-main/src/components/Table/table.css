@@ -1,0 +1,23 @@
+.select-div{
+    display: flex;
+    justify-content: flex-start;
+    
+}
+
+.icons{
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+}
+.search{
+    height: 35px;
+    width: 250px;
+    margin: 10px;
+    
+    border: 1.3px solid rgb(203,203,203);
+    border-radius: 2px;
+}
+
+.search:focus{
+    outline: 2px solid rgb(11,95,202);
+}
