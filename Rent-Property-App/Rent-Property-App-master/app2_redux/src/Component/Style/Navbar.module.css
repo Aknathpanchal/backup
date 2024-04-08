@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@1,700&family=Poppins:wght@100&family=Prompt:wght@200&family=Roboto+Serif:ital,wght@0,400;1,200;1,500;1,600&family=Urbanist:ital,wght@0,100;0,200;0,300;0,400;0,500;0,700;1,500;1,600&display=swap');
+*{
+    font-family: "Urbanist",sans-serif;
+    
+
+}
+.Home{
+    color: aqua;
+}
+.Navbar{
+    display: flex;
+    justify-content: left;
+    padding: 15px 60px;
+    padding-top: 35px;
+    background-color: rgb(244, 249, 249);
+    border: 1px solid rgb(191, 190, 190);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+
+
+}
+.div1{
+    display: flex;
+    justify-content: center;
+    /* background-color: aqua; */
+    /* padding-right: 16px; */
+    font-size: 21px;
+    font-weight: 600;
+    gap:20px;
+    color: black;
+}
+.navlink{
+    text-decoration: none;
+    /* color: black; */
+}
+.SearchDiv{
+    display: flex;
+    justify-content: space-between;
+    width: 78%;
+    margin: auto;
+    /* padding: 0 150px; */
+    /* border: 1px solid red; */
+}
+.SearchDiv>input{
+    width: 200px;
+    height: 20px;
+    margin-top: 30px;
+}
+.filterDiv{
+    display: flex;
+    justify-content: space-between;
+    width: 75.4%;
+    height: 50px;
+    /* background-color: aqua; */
+    margin: auto;
+    /* margin-top: 20px; */
+    margin-bottom: 40px;
+    padding: 0 20px;
+    padding-top: 15px;
+    /* border: 1px solid red; */
+    background-color: white;
+}
+.selectTag{
+    font-size: 16px;
+    font-weight: 500;
+    
+    padding: 0px 10px;
+    border: 1px solid rgb(181, 176, 176);
+}
+.priceDiv{
+    display: flex;
+    height: 32px;
+    width: 270px;
+    border: 1px solid rgb(186, 183, 183);
+    justify-content: space-around;
+}
+.priceDiv>p{
+    margin-top: 4px;
+    font-weight: 400;
+
+}
+.priceDiv>input{
+    width: 70px;
+    height: 20px;
+    margin-top: 4px;
+    border: 1px solid rgb(188, 188, 193);
+
+}
+
+.dateDiv{
+    border: 1px solid rgb(202, 200, 200);
+    width: 185px;
+    height: 26px;
+    display: flex;
+    padding: 3px;
+    /* padding-bottom: 0px; */
+    padding-left: 9px;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: rgb(245, 255, 255);
+    font-weight: 400;
+ }
+ .dateDiv>input{
+    height: 100%;
+    width: 10%;
+    margin-left: 10px;
+    border: none;
+ }
+ .filterButton{
+    height: 36px;
+    font-size: 15px;
+    font-weight: 600;
+    color: white;
+    background-color: rgb(4, 125, 125);
+    padding: 0px 15px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    /* background-color: aqua; */
+ }

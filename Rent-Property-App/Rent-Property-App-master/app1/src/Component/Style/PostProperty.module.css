@@ -1,0 +1,103 @@
+
+/* .formDiv{
+    width: 400px;
+    height: 370px;
+    border: .5px solid black;
+    margin: auto;
+    margin-top: 30px;
+
+} */
+.mainDiv{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    /* justify-content: center; */
+}
+.mainDiv>:nth-child(1){
+  /* border: 1px solid red; */
+  width: 650px;
+  margin-left: 20px;
+}
+.formDiv{
+    width:535px;
+    height: 380px;
+    border: 1px solid rgb(189, 187, 187);
+    /* margin: auto; */
+    gap: 0 5px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: left;
+    padding: 20px;
+    
+    border-radius: 5px;
+    margin-top: 29px;
+}
+select{
+    background-color: rgb(245, 255, 255);
+    padding: 5px 10px;
+    font-weight: 500;
+    height: 34px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+input{
+    height: 27px;
+    /* margin-right: 10px; */
+    margin-bottom: 20px;
+    width: 50%;
+    font-size: 16px;
+
+}
+.postButton{
+    width: 99%;
+    padding: 14px;
+    font-size: 19px;
+    font-weight: 700;
+    background-color:  #09d2ad;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.postButton:hover{
+    background-color:  #0e7e69;
+}
+.dateMain{
+    display: flex;
+    gap: 10px;
+}
+.date{
+   border: 1px solid black;
+   width: 155px;
+   height: 26px;
+   display: flex;
+   padding: 3px;
+   /* padding-bottom: 0px; */
+   padding-left: 9px;
+   font-size: 16px;
+   background-color: rgb(245, 255, 255);
+   font-weight: 400;
+}
+.date>input{
+   height: 100%;
+   width: 10%;
+   margin-left: 10px;
+   border: none;
+}
+.area{
+    width: 200px;
+    /* background-color: #0e7e69; */
+}
+
+@media screen and (min-width: 481px) and (max-width: 1268px) { 
+    /* STYLES HERE */
+    .mainDiv>:nth-child(1){
+        /* border: 1px solid red; */
+        display: none;
+        width: 50%;
+        margin-left: 50px;
+      }
+    }
