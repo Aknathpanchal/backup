@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+.input-custom {
+  width: 100%;
+  padding: 15px;
+  border-radius: 5px;
+  border: 1.5px solid #0097B2;
+  box-sizing: border-box; 
+}
+
+.input-custom:focus {
+  border: 2px solid #0097B2;
+  outline: none;
+}
+
+
+.custom-button {
+  background-color: #0097B2;
+  /* width: 115px; */
+  height: 39px;
+  position: relative;
+  padding: 9px 15px;
+  gap: 10px;
+  border-radius: 19.5px;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+
+.custom-button span {
+  color: #FFFFFF;
+  font-family: 'Overpass', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 20.26px;
+  text-align: left;
+  /* width: 85px; */
+  height: 20px;
+}
