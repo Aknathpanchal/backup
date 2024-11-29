@@ -1,0 +1,8469 @@
+/* About us */
+
+position: relative;
+width: 1440px;
+height: 5625px;
+
+background: #ffffff;
+
+/* Frame 79 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 1440px;
+height: 5625px;
+left: 0px;
+top: 0px;
+
+/* Frame 78 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 99px;
+
+width: 1440px;
+height: 5080px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Frame 77 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 128px;
+
+width: 1440px;
+height: 3668.43px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Header */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px 10px;
+gap: 961px;
+
+width: 1440px;
+height: 63px;
+
+background: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Logo */
+
+width: 79.12px;
+height: 63px;
+
+background: url(IMG_20240804_202139-removebg(1));
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Login button */
+
+width: 817px;
+height: 39px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Right content */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 504px;
+
+position: absolute;
+width: 817px;
+height: 39px;
+left: 613px;
+top: 12px;
+
+/* Content 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 14px;
+
+width: 198px;
+height: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Home */
+
+width: 44px;
+height: 20px;
+
+font-family: "Overpass";
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* About us */
+
+width: 67px;
+height: 20px;
+
+font-family: "Overpass";
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+display: flex;
+align-items: center;
+text-decoration-line: underline;
+
+color: #000000;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Contact */
+
+width: 59px;
+height: 20px;
+
+font-family: "Overpass";
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+/* User name button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 9px 15px;
+gap: 10px;
+
+width: 115px;
+height: 39px;
+
+background: #0097b2;
+border-radius: 19.5px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Anirudh */
+
+width: 61px;
+height: 20px;
+
+font-family: "Overpass";
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 76 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 153px;
+
+width: 1440px;
+height: 3477.43px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+/* Colomn 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 1213.96px;
+height: 522px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Content */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 10px;
+gap: 10px;
+
+width: 584px;
+height: 522px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 48px;
+
+width: 564px;
+height: 502px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* TEXT */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 564px;
+height: 398px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Heading */
+
+width: 564px;
+height: 156px;
+
+font-family: "Zen Antique Soft";
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 52px;
+/* or 108% */
+display: flex;
+align-items: center;
+letter-spacing: -1px;
+
+color: rgba(0, 0, 0, 0.8);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Paragraph */
+
+width: 484px;
+height: 210px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+display: flex;
+align-items: center;
+letter-spacing: -1px;
+
+color: rgba(0, 0, 0, 0.8);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Therapist button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 9px 15px;
+gap: 10px;
+
+width: 356px;
+height: 56px;
+
+background: #0097b2;
+border-radius: 28.5px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Get matched to a therapist. */
+
+width: 262px;
+height: 25px;
+
+font-family: "Overpass";
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 25px;
+display: flex;
+align-items: center;
+
+color: rgba(255, 255, 255, 0.8);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Image */
+
+width: 619.96px;
+height: 485px;
+
+background: url(Asset 1@20x);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Frame 75 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 87px;
+
+width: 1440px;
+height: 2802.43px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+/* Frame 72 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 178px;
+
+width: 1440px;
+height: 2051.43px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Frame 71 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 51px;
+
+width: 1440px;
+height: 1255px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Frame 68 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 112px;
+
+width: 1440px;
+height: 639px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* How it works */
+
+width: 1440px;
+height: 52px;
+
+font-family: "Zen Antique Soft";
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 52px;
+/* identical to box height, or 108% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -1px;
+
+color: rgba(0, 0, 0, 0.8);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Frame 67 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 205px 0px 120px;
+gap: 42px;
+
+width: 1440px;
+height: 475px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+/* 21251827_6409847 1 */
+
+width: 717px;
+height: 475px;
+
+background: url(21251827_6409847);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Frame 66 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 26px;
+
+width: 406px;
+height: 168px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Speech Analysis */
+
+width: 406px;
+height: 52px;
+
+font-family: "Zen Antique Soft";
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 52px;
+/* identical to box height, or 162% */
+display: flex;
+align-items: center;
+letter-spacing: -1px;
+
+color: rgba(0, 0, 0, 0.8);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* By analyzing your speech, we identify any mental health concerns and provide you with appropriate support */
+
+width: 406px;
+height: 90px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+display: flex;
+align-items: center;
+letter-spacing: -1px;
+
+color: #000000;
+
+opacity: 0.6;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+/* Frame 70 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 0px 0px 200px;
+gap: 42px;
+
+width: 1440px;
+height: 565px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+/* Frame 69 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 26px;
+
+width: 406px;
+height: 168px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Facial Analysis */
+
+width: 406px;
+height: 52px;
+
+font-family: "Zen Antique Soft";
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 52px;
+/* identical to box height, or 162% */
+display: flex;
+align-items: center;
+letter-spacing: -1px;
+
+color: rgba(0, 0, 0, 0.8);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* We analyze your facial expressions to identify any mental health concerns and provide you with appropriate support */
+
+width: 406px;
+height: 90px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+display: flex;
+align-items: center;
+letter-spacing: -1px;
+
+color: #000000;
+
+opacity: 0.6;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+/* Rectangle 10 */
+
+width: 679.58px;
+height: 565px;
+
+background: url(image);
+border-radius: 19.7552px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Group 16 */
+
+width: 1172px;
+height: 618.43px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Asset 2@20x 3 */
+
+position: absolute;
+width: 1172px;
+height: 618.43px;
+left: calc(50% - 1172px / 2);
+top: 1433px;
+
+background: url(Asset 2@20x);
+border-radius: 24.7257px;
+
+/* Chat Bot */
+
+position: absolute;
+width: 369px;
+height: 52px;
+left: calc(50% - 369px / 2 + 237.5px);
+top: 1658px;
+
+font-family: "Zen Antique Soft";
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 52px;
+/* identical to box height, or 162% */
+display: flex;
+align-items: center;
+letter-spacing: -1px;
+
+color: rgba(0, 0, 0, 0.8);
+
+opacity: 0.8;
+
+/* Your personal companion who listens to your problems like a friend and helps you overcome mental health challenges. */
+
+position: absolute;
+width: 406px;
+height: 90px;
+left: 773px;
+top: 1736px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+display: flex;
+align-items: center;
+letter-spacing: -1px;
+
+color: #000000;
+
+opacity: 0.6;
+
+/* Frame 74 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 0px 0px 197px;
+gap: 5px;
+
+width: 1440px;
+height: 664px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+/* Frame 73 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 26px;
+
+width: 406px;
+height: 168px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Talk to best therapists */
+
+width: 406px;
+height: 52px;
+
+font-family: "Zen Antique Soft";
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 52px;
+/* identical to box height, or 162% */
+display: flex;
+align-items: center;
+letter-spacing: -1px;
+
+color: rgba(0, 0, 0, 0.8);
+
+opacity: 0.8;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* We have a team of top therapists who are professionals dedicated to helping their patients overcome mental health challenges. */
+
+width: 406px;
+height: 90px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+display: flex;
+align-items: center;
+letter-spacing: -1px;
+
+color: #000000;
+
+opacity: 0.6;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+/* Psychologist-amico 1 */
+
+width: 664px;
+height: 664px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* freepik--Floor--inject-4 */
+
+position: absolute;
+left: 1.36%;
+right: 1.31%;
+top: 43.51%;
+bottom: 3.02%;
+
+/* freepik--floor--inject-4 */
+
+position: absolute;
+left: 1.36%;
+right: 1.31%;
+top: 43.51%;
+bottom: 3.02%;
+
+background: #f5f5f5;
+
+/* freepik--Shadows--inject-4 */
+
+position: absolute;
+left: 7.14%;
+right: 5.52%;
+top: 55.26%;
+bottom: 13.46%;
+
+/* freepik--Shadow--inject-4 */
+
+position: absolute;
+left: 45.33%;
+right: 5.52%;
+top: 58.16%;
+bottom: 13.46%;
+
+background: #e0e0e0;
+
+/* freepik--shadow--inject-4 */
+
+position: absolute;
+left: 7.14%;
+right: 52.73%;
+top: 61.44%;
+bottom: 13.5%;
+
+background: #e0e0e0;
+
+/* freepik--shadow--inject-4 */
+
+position: absolute;
+left: 31.14%;
+right: 44.12%;
+top: 55.26%;
+bottom: 30.43%;
+
+background: #e0e0e0;
+
+/* freepik--Diplomas--inject-4 */
+
+position: absolute;
+left: 9.79%;
+right: 67.08%;
+top: 10.2%;
+bottom: 75.92%;
+
+/* freepik--Diploma--inject-4 */
+
+position: absolute;
+left: 9.79%;
+right: 80.6%;
+top: 10.2%;
+bottom: 75.92%;
+
+/* freepik--Window--inject-4 */
+
+position: absolute;
+left: 9.79%;
+right: 80.6%;
+top: 10.2%;
+bottom: 75.92%;
+
+/* Vector */
+
+position: absolute;
+left: 10.13%;
+right: 80.95%;
+top: 18.33%;
+bottom: 76.52%;
+
+background: #f0f0f0;
+
+/* Vector */
+
+position: absolute;
+left: 10.47%;
+right: 81.29%;
+top: 11.19%;
+bottom: 76.92%;
+
+background: #fafafa;
+
+/* Vector */
+
+position: absolute;
+left: 10.13%;
+right: 80.6%;
+top: 10.4%;
+bottom: 75.92%;
+
+background: #ebebeb;
+
+/* Vector */
+
+position: absolute;
+left: 18.71%;
+right: 80.95%;
+top: 10.99%;
+bottom: 81.47%;
+
+background: #e0e0e0;
+
+/* Vector */
+
+position: absolute;
+left: 9.79%;
+right: 80.6%;
+top: 10.2%;
+bottom: 84.25%;
+
+background: #f5f5f5;
+
+/* Vector */
+
+position: absolute;
+left: 9.79%;
+right: 89.87%;
+top: 15.55%;
+bottom: 75.92%;
+
+background: #e0e0e0;
+
+/* Vector */
+
+position: absolute;
+left: 16.51%;
+right: 82.33%;
+top: 17.05%;
+bottom: 81.46%;
+
+background: #e0e0e0;
+
+/* Vector */
+
+position: absolute;
+left: 12.19%;
+right: 83.01%;
+top: 13.07%;
+bottom: 83.83%;
+
+background: #e0e0e0;
+
+/* Vector */
+
+position: absolute;
+left: 11.5%;
+right: 82.32%;
+top: 14.25%;
+bottom: 81.96%;
+
+background: #f0f0f0;
+
+/* Vector */
+
+position: absolute;
+left: 11.5%;
+right: 82.32%;
+top: 15.05%;
+bottom: 81.16%;
+
+background: #f0f0f0;
+
+/* Vector */
+
+position: absolute;
+left: 11.5%;
+right: 82.32%;
+top: 15.84%;
+bottom: 80.38%;
+
+background: #f0f0f0;
+
+/* Vector */
+
+position: absolute;
+left: 11.98%;
+right: 83.88%;
+top: 18.58%;
+bottom: 79.07%;
+
+background: #e0e0e0;
+
+/* freepik--diploma--inject-4 */
+
+position: absolute;
+left: 23.31%;
+right: 67.08%;
+top: 10.2%;
+bottom: 75.92%;
+
+/* freepik--window--inject-4 */
+
+position: absolute;
+left: 23.31%;
+right: 67.08%;
+top: 10.2%;
+bottom: 75.92%;
+
+/* Vector */
+
+position: absolute;
+left: 23.65%;
+right: 67.42%;
+top: 18.33%;
+bottom: 76.52%;
+
+background: #f0f0f0;
+
+/* Vector */
+
+position: absolute;
+left: 24%;
+right: 67.76%;
+top: 11.19%;
+bottom: 76.92%;
+
+background: #fafafa;
+
+/* Vector */
+
+position: absolute;
+left: 23.65%;
+right: 67.08%;
+top: 10.4%;
+bottom: 75.92%;
+
+background: #ebebeb;
+
+/* Vector */
+
+position: absolute;
+left: 32.24%;
+right: 67.42%;
+top: 10.99%;
+bottom: 81.47%;
+
+background: #e0e0e0;
+
+/* Vector */
+
+position: absolute;
+left: 23.31%;
+right: 67.08%;
+top: 10.2%;
+bottom: 84.25%;
+
+background: #f5f5f5;
+
+/* Vector */
+
+position: absolute;
+left: 23.31%;
+right: 76.35%;
+top: 15.55%;
+bottom: 75.92%;
+
+background: #e0e0e0;
+
+/* Vector */
+
+position: absolute;
+left: 30.04%;
+right: 68.8%;
+top: 17.05%;
+bottom: 81.46%;
+
+background: #e0e0e0;
+
+/* Vector */
+
+position: absolute;
+left: 25.72%;
+right: 69.48%;
+top: 13.07%;
+bottom: 83.83%;
+
+background: #e0e0e0;
+
+/* Vector */
+
+position: absolute;
+left: 25.03%;
+right: 68.79%;
+top: 14.25%;
+bottom: 81.96%;
+
+background: #f0f0f0;
+
+/* Vector */
+
+position: absolute;
+left: 25.03%;
+right: 68.79%;
+top: 15.05%;
+bottom: 81.16%;
+
+background: #f0f0f0;
+
+/* Vector */
+
+position: absolute;
+left: 25.03%;
+right: 68.79%;
+top: 15.84%;
+bottom: 80.38%;
+
+background: #f0f0f0;
+
+/* Vector */
+
+position: absolute;
+left: 25.51%;
+right: 70.35%;
+top: 18.58%;
+bottom: 79.07%;
+
+background: #e0e0e0;
+
+/* freepik--Shelf--inject-4 */
+
+position: absolute;
+left: 72.19%;
+right: 7.03%;
+top: 10.45%;
+bottom: 75.37%;
+
+/* freepik--shelf--inject-4 */
+
+position: absolute;
+left: 72.19%;
+right: 7.03%;
+top: 10.45%;
+bottom: 75.37%;
+
+/* freepik--shelf--inject-4 */
+
+position: absolute;
+left: 72.19%;
+right: 7.03%;
+top: 11.87%;
+bottom: 75.37%;
+
+/* Vector */
+
+position: absolute;
+left: 72.19%;
+right: 7.03%;
+top: 11.87%;
+bottom: 75.37%;
+
+background: #f0f0f0;
+
+/* Vector */
+
+position: absolute;
+left: 72.2%;
+right: 7.04%;
+top: 11.87%;
+bottom: 76.22%;
+
+background: #fafafa;
+
+/* Vector */
+
+position: absolute;
+left: 87.34%;
+right: 7.03%;
+top: 20.46%;
+bottom: 75.38%;
+
+background: #e0e0e0;
+
+/* freepik--Book--inject-4 */
+
+position: absolute;
+left: 73.02%;
+right: 15.39%;
+top: 11.09%;
+bottom: 80.72%;
+
+/* Vector */
+
+position: absolute;
+left: 73.21%;
+right: 15.39%;
+top: 12.6%;
+bottom: 80.87%;
+
+background: #e0e0e0;
+
+/* Vector */
+
+position: absolute;
+left: 80.26%;
+right: 15.57%;
+top: 15.49%;
+bottom: 81.06%;
+
+background: #ffffff;
+
+/* Vector */
+
+position: absolute;
+left: 80.12%;
+right: 15.39%;
+top: 15.16%;
+bottom: 80.72%;
+
+background: #ebebeb;
+
+/* Vector */
+
+position: absolute;
+left: 73.02%;
+right: 15.39%;
+top: 11.09%;
+bottom: 80.75%;
+
+background: #fafafa;
+
+/* Vector */
+
+position: absolute;
+left: 73.02%;
+right: 19.76%;
+top: 13.72%;
+bottom: 80.75%;
+
+background: #f0f0f0;
+
+/* freepik--book--inject-4 */
+
+position: absolute;
+left: 82.13%;
+right: 10.37%;
+top: 10.45%;
+bottom: 78.93%;
+
+/* Vector */
+
+position: absolute;
+left: 84.11%;
+right: 10.98%;
+top: 10.58%;
+bottom: 86.3%;
+
+background: #ebebeb;
+
+/* Vector */
+
+position: absolute;
+left: 84.18%;
+right: 10.37%;
+top: 10.82%;
+bottom: 85.94%;
+
+background: #ffffff;
+
+/* Vector */
+
+position: absolute;
+left: 83.22%;
+right: 13.77%;
+top: 13.78%;
+bottom: 78.94%;
+
+background: #e0e0e0;
+
+/* Vector */
+
+position: absolute;
+left: 82.13%;
+right: 15.11%;
+top: 13.34%;
+bottom: 78.93%;
+
+background: #f0f0f0;
+
+/* Vector */
+
+position: absolute;
+left: 83.79%;
+right: 11.02%;
+top: 10.45%;
+bottom: 85.76%;
+
+background: #fafafa;
+
+/* freepik--book--inject-4 */
+
+position: absolute;
+left: 85.64%;
+right: 8.22%;
+top: 10.74%;
+bottom: 77.05%;
+
+/* Vector */
+
+position: absolute;
+left: 85.79%;
+right: 9.63%;
+top: 10.84%;
+bottom: 77.82%;
+
+background: #ebebeb;
+
+/* Vector */
+
+position: absolute;
+left: 85.94%;
+right: 8.62%;
+top: 11.09%;
+bottom: 85.83%;
+
+background: #ffffff;
+
+/* Vector */
+
+position: absolute;
+left: 85.64%;
+right: 8.23%;
+top: 10.74%;
+bottom: 85.74%;
+
+background: #fafafa;
+
+/* Vector */
+
+position: absolute;
+left: 85.64%;
+right: 8.22%;
+top: 11.65%;
+bottom: 77.05%;
+
+background: #ebebeb;
+
+/* Vector */
+
+position: absolute;
+left: 85.65%;
+right: 13%;
+top: 13.48%;
+bottom: 77.05%;
+
+background: #f0f0f0;
+
+/* freepik--side-table--inject-4 */
+
+position: absolute;
+left: 32.13%;
+right: 45.21%;
+top: 40.76%;
+bottom: 31.36%;
+
+/* freepik--side-table--inject-4 */
+
+position: absolute;
+left: 32.13%;
+right: 45.21%;
+top: 40.76%;
+bottom: 31.36%;
+
+/* freepik--side-table--inject-4 */
+
+position: absolute;
+left: 32.13%;
+right: 45.21%;
+top: 42.14%;
+bottom: 31.36%;
+
+/* Vector */
+
+position: absolute;
+left: 51.5%;
+right: 46.85%;
+top: 62.35%;
+bottom: 36.22%;
+
+background: #ba68c8;
+
+/* Vector */
+
+position: absolute;
+left: 51.5%;
+right: 46.85%;
+top: 62.35%;
+bottom: 36.22%;
+
+background: #ffffff;
+opacity: 0.6;
+
+/* Vector */
+
+position: absolute;
+left: 51.5%;
+right: 46.85%;
+top: 62.35%;
+bottom: 36.22%;
+
+background: #000000;
+opacity: 0.05;
+
+/* Vector */
+
+position: absolute;
+left: 53.15%;
+right: 46.03%;
+top: 61.88%;
+bottom: 36.22%;
+
+background: #ba68c8;
+
+/* Vector */
+
+position: absolute;
+left: 53.15%;
+right: 46.03%;
+top: 61.88%;
+bottom: 36.22%;
+
+background: #ffffff;
+opacity: 0.75;
+
+/* Vector */
+
+position: absolute;
+left: 32.95%;
+right: 55.12%;
+top: 60.24%;
+bottom: 31.36%;
+
+background: #ba68c8;
+
+/* Vector */
+
+position: absolute;
+left: 32.95%;
+right: 55.12%;
+top: 60.24%;
+bottom: 31.36%;
+
+background: #ffffff;
+opacity: 0.6;
+
+/* Vector */
+
+position: absolute;
+left: 32.95%;
+right: 55.12%;
+top: 60.24%;
+bottom: 31.36%;
+
+background: #000000;
+opacity: 0.1;
+
+/* Vector */
+
+position: absolute;
+left: 44.88%;
+right: 54.29%;
+top: 66.65%;
+bottom: 31.36%;
+
+background: #ba68c8;
+
+/* Vector */
+
+position: absolute;
+left: 44.88%;
+right: 54.29%;
+top: 66.65%;
+bottom: 31.36%;
+
+background: #ffffff;
+opacity: 0.75;
+
+/* Vector */
+
+position: absolute;
+left: 32.13%;
+right: 55.94%;
+top: 48.33%;
+bottom: 32.4%;
+
+background: #ba68c8;
+
+/* Vector */
+
+position: absolute;
+left: 32.13%;
+right: 55.94%;
+top: 48.33%;
+bottom: 32.4%;
+
+background: #ffffff;
+opacity: 0.6;
+
+/* Vector */
+
+position: absolute;
+left: 44.06%;
+right: 45.21%;
+top: 49.02%;
+bottom: 32.4%;
+
+background: #ba68c8;
+
+/* Vector */
+
+position: absolute;
+left: 44.06%;
+right: 45.21%;
+top: 49.02%;
+bottom: 32.4%;
+
+background: #ffffff;
+opacity: 0.75;
+
+/* Vector */
+
+position: absolute;
+left: 32.13%;
+right: 45.21%;
+top: 42.14%;
+bottom: 44.78%;
+
+background: #ba68c8;
+
+/* Vector */
+
+position: absolute;
+left: 32.13%;
+right: 45.21%;
+top: 42.14%;
+bottom: 44.78%;
+
+background: #ffffff;
+opacity: 0.85;
+
+/* Vector */
+
+position: absolute;
+left: 44.88%;
+right: 46.03%;
+top: 54.26%;
+bottom: 33.83%;
+
+background: #ba68c8;
+
+/* Vector */
+
+position: absolute;
+left: 44.88%;
+right: 46.03%;
+top: 54.26%;
+bottom: 33.83%;
+
+background: #ffffff;
+opacity: 0.7;
+
+/* Vector */
+
+position: absolute;
+left: 44.88%;
+right: 46.03%;
+top: 57.57%;
+bottom: 33.83%;
+
+background: #000000;
+opacity: 0.1;
+
+/* Vector */
+
+position: absolute;
+left: 48.24%;
+right: 46.03%;
+top: 54.26%;
+bottom: 39.07%;
+
+background: #000000;
+opacity: 0.05;
+
+/* Vector */
+
+position: absolute;
+left: 44.88%;
+right: 46.03%;
+top: 50.45%;
+bottom: 41.45%;
+
+background: #ba68c8;
+
+/* Vector */
+
+position: absolute;
+left: 44.88%;
+right: 46.03%;
+top: 50.45%;
+bottom: 41.45%;
+
+background: #ffffff;
+opacity: 0.85;
+
+/* Vector */
+
+position: absolute;
+left: 47.7%;
+right: 49%;
+top: 52.53%;
+bottom: 45.27%;
+
+background: #455a64;
+
+/* freepik--Plant--inject-4 */
+
+position: absolute;
+left: 40.46%;
+right: 54.25%;
+top: 40.76%;
+bottom: 50.66%;
+
+/* freepik--shadow--inject-4 */
+
+position: absolute;
+left: 40.46%;
+right: 54.39%;
+top: 46.36%;
+bottom: 50.66%;
+
+/* Vector */
+
+position: absolute;
+left: 40.46%;
+right: 54.39%;
+top: 46.36%;
+bottom: 50.66%;
+
+background: #000000;
+opacity: 0.1;
+
+/* freepik--Pot--inject-4 */
+
+position: absolute;
+left: 40.46%;
+right: 54.25%;
+top: 40.76%;
+bottom: 51.53%;
+
+/* Vector */
+
+position: absolute;
+left: 40.56%;
+right: 54.59%;
+top: 44.38%;
+bottom: 51.53%;
+
+background: #ebebeb;
+
+/* Vector */
+
+position: absolute;
+left: 40.63%;
+right: 54.66%;
+top: 43.72%;
+bottom: 53.57%;
+
+background: #fafafa;
+
+/* Vector */
+
+position: absolute;
+left: 41.55%;
+right: 55.58%;
+top: 44.25%;
+bottom: 54.1%;
+
+background: #ebebeb;
+
+/* Vector */
+
+position: absolute;
+left: 41.63%;
+right: 55.66%;
+top: 44.8%;
+bottom: 54.1%;
+
+background: #455a64;
+
+/* Vector */
+
+position: absolute;
+left: 42.55%;
+right: 54.25%;
+top: 40.76%;
+bottom: 54.5%;
+
+background: #ba68c8;
+
+/* Vector */
+
+position: absolute;
+left: 42.55%;
+right: 54.25%;
+top: 40.76%;
+bottom: 54.5%;
+
+background: #000000;
+opacity: 0.1;
+
+/* Vector */
+
+position: absolute;
+left: 42.55%;
+right: 54.66%;
+top: 40.77%;
+bottom: 54.5%;
+
+background: #000000;
+opacity: 0.1;
+
+/* Vector */
+
+position: absolute;
+left: 43.46%;
+right: 54.63%;
+top: 41.3%;
+bottom: 54.82%;
+
+background: #fafafa;
+
+/* Vector */
+
+position: absolute;
+left: 44.3%;
+right: 55.03%;
+top: 42.1%;
+bottom: 56.45%;
+
+background: #fafafa;
+
+/* Vector */
+
+position: absolute;
+left: 40.46%;
+right: 56.16%;
+top: 40.84%;
+bottom: 54.5%;
+
+background: #ba68c8;
+
+/* Vector */
+
+position: absolute;
+left: 40.46%;
+right: 56.16%;
+top: 40.85%;
+bottom: 54.5%;
+
+background: #000000;
+opacity: 0.1;
+
+/* Vector */
+
+position: absolute;
+left: 40.74%;
+right: 56.95%;
+top: 41.04%;
+bottom: 54.65%;
+
+background: #fafafa;
+
+/* Vector */
+
+position: absolute;
+left: 41.17%;
+right: 57.46%;
+top: 43.05%;
+bottom: 56.59%;
+
+background: #fafafa;
+
+/* freepik--Divan--inject-4 */
+
+position: absolute;
+left: 46.75%;
+right: 4.05%;
+top: 38.91%;
+bottom: 14.47%;
+
+/* freepik--divan--inject-4 */
+
+position: absolute;
+left: 46.75%;
+right: 4.05%;
+top: 38.91%;
+bottom: 14.47%;
+
+/* Vector */
+
+position: absolute;
+left: 59.42%;
+right: 38.3%;
+top: 82.9%;
+bottom: 14.47%;
+
+background: #fafafa;
+
+/* Vector */
+
+position: absolute;
+left: 47.56%;
+right: 50.16%;
+top: 75.86%;
+bottom: 21.51%;
+
+background: #fafafa;
+
+/* Vector */
+
+position: absolute;
+left: 89.96%;
+right: 7.76%;
+top: 65.26%;
+bottom: 32.11%;
+
+background: #fafafa;
+
+/* Vector */
+
+position: absolute;
+left: 78.11%;
+right: 19.62%;
+top: 58.23%;
+bottom: 39.15%;
+
+background: #fafafa;
+
+/* Vector */
+
+position: absolute;
+left: 47.26%;
+right: 7.04%;
+top: 51.19%;
+bottom: 16.49%;
+
+background: #455a64;
+
+/* Vector */
+
+position: absolute;
+left: 47.26%;
+right: 8.17%;
+top: 51.84%;
+bottom: 17.97%;
+
+background: #263238;
+
+/* Vector */
+
+position: absolute;
+left: 47.26%;
+right: 39.44%;
+top: 74.36%;
+bottom: 16.49%;
+
+background: #37474f;
+
+/* Vector */
+
+position: absolute;
+left: 46.75%;
+right: 4.05%;
+top: 38.91%;
+bottom: 18.79%;
+
+background: #ba68c8;
+
+/* Vector */
+
+position: absolute;
+left: 46.75%;
+right: 4.05%;
+top: 38.91%;
+bottom: 18.79%;
+
+background: #000000;
+opacity: 0.5;
+
+/* Vector */
+
+position: absolute;
+left: 46.75%;
+right: 39.44%;
+top: 68.39%;
+bottom: 18.8%;
+
+background: #000000;
+opacity: 0.1;
+
+/* Vector */
+
+position: absolute;
+left: 47.26%;
+right: 4.42%;
+top: 38.91%;
+bottom: 23.49%;
+
+background: #ba68c8;
+
+/* Vector */
+
+position: absolute;
+left: 47.26%;
+right: 4.42%;
+top: 38.91%;
+bottom: 23.49%;
+
+background: #000000;
+opacity: 0.3;
+
+/* Vector */
+
+position: absolute;
+left: 73.43%;
+right: 4.43%;
+top: 38.91%;
+bottom: 38.75%;
+
+background: #000000;
+opacity: 0.1;
+
+/* Vector */
+
+position: absolute;
+left: 81.59%;
+right: 14.93%;
+top: 42.79%;
+bottom: 53.99%;
+
+background: #000000;
+opacity: 0.15;
+
+/* Vector */
+
+position: absolute;
+left: 82.65%;
+right: 16.28%;
+top: 43.75%;
+bottom: 55.18%;
+
+background: #37474f;
+
+/* Vector */
+
+position: absolute;
+left: 68.35%;
+right: 27.46%;
+top: 58.03%;
+bottom: 39.8%;
+
+background: #000000;
+opacity: 0.15;
+
+/* Vector */
+
+position: absolute;
+left: 69.67%;
+right: 29.04%;
+top: 58.61%;
+bottom: 40.65%;
+
+background: #37474f;
+
+/* Vector */
+
+position: absolute;
+left: 75.2%;
+right: 20.61%;
+top: 61.99%;
+bottom: 35.84%;
+
+background: #000000;
+opacity: 0.15;
+
+/* Vector */
+
+position: absolute;
+left: 76.53%;
+right: 22.18%;
+top: 62.57%;
+bottom: 36.69%;
+
+background: #37474f;
+
+/* Vector */
+
+position: absolute;
+left: 61.84%;
+right: 33.97%;
+top: 61.79%;
+bottom: 36.05%;
+
+background: #000000;
+opacity: 0.15;
+
+/* Vector */
+
+position: absolute;
+left: 63.17%;
+right: 35.54%;
+top: 62.37%;
+bottom: 36.89%;
+
+background: #37474f;
+
+/* Vector */
+
+position: absolute;
+left: 68.72%;
+right: 27.1%;
+top: 65.75%;
+bottom: 32.09%;
+
+background: #000000;
+opacity: 0.15;
+
+/* Vector */
+
+position: absolute;
+left: 70.03%;
+right: 28.69%;
+top: 66.32%;
+bottom: 32.94%;
+
+background: #37474f;
+
+/* Vector */
+
+position: absolute;
+left: 54.96%;
+right: 40.85%;
+top: 65.32%;
+bottom: 32.52%;
+
+background: #000000;
+opacity: 0.15;
+
+/* Vector */
+
+position: absolute;
+left: 56.28%;
+right: 42.43%;
+top: 65.89%;
+bottom: 33.37%;
+
+background: #37474f;
+
+/* Vector */
+
+position: absolute;
+left: 61.82%;
+right: 33.99%;
+top: 69.29%;
+bottom: 28.56%;
+
+background: #000000;
+opacity: 0.15;
+
+/* Vector */
+
+position: absolute;
+left: 63.14%;
+right: 35.56%;
+top: 69.85%;
+bottom: 29.41%;
+
+background: #37474f;
+
+/* Vector */
+
+position: absolute;
+left: 89%;
+right: 7.52%;
+top: 46.99%;
+bottom: 49.79%;
+
+background: #000000;
+opacity: 0.15;
+
+/* Vector */
+
+position: absolute;
+left: 90.05%;
+right: 8.89%;
+top: 47.95%;
+bottom: 50.97%;
+
+background: #37474f;
+
+/* Vector */
+
+position: absolute;
+left: 77.84%;
+right: 18.67%;
+top: 49.01%;
+bottom: 47.77%;
+
+background: #000000;
+opacity: 0.15;
+
+/* Vector */
+
+position: absolute;
+left: 78.91%;
+right: 20.03%;
+top: 49.97%;
+bottom: 48.96%;
+
+background: #37474f;
+
+/* Vector */
+
+position: absolute;
+left: 85.16%;
+right: 11.36%;
+top: 53.29%;
+bottom: 43.48%;
+
+background: #000000;
+opacity: 0.15;
+
+/* Vector */
+
+position: absolute;
+left: 86.21%;
+right: 12.73%;
+top: 54.26%;
+bottom: 44.67%;
+
+background: #37474f;
+
+/* freepik--character-2--inject-4 */
+
+position: absolute;
+left: 52.17%;
+right: 1.79%;
+top: 33.7%;
+bottom: 26.01%;
+
+/* freepik--Character--inject-4 */
+
+position: absolute;
+left: 52.17%;
+right: 1.79%;
+top: 33.7%;
+bottom: 26.01%;
+
+/* freepik--shadow--inject-4 */
+
+position: absolute;
+left: 52.17%;
+right: 6.36%;
+top: 38.91%;
+bottom: 26.01%;
+
+background: #000000;
+opacity: 0.1;
+
+/* freepik--Bottom--inject-4 */
+
+position: absolute;
+left: 52.24%;
+right: 16.39%;
+top: 51.56%;
+bottom: 26.35%;
+
+/* Vector */
+
+position: absolute;
+left: 53.98%;
+right: 38.27%;
+top: 62.24%;
+bottom: 30.08%;
+
+background: #ffbda7;
+
+/* Vector */
+
+position: absolute;
+left: 52.24%;
+right: 40.96%;
+top: 69%;
+bottom: 28.7%;
+
+background: #263238;
+
+/* Vector */
+
+position: absolute;
+left: 52.36%;
+right: 40.6%;
+top: 66.04%;
+bottom: 29.11%;
+
+background: #37474f;
+
+/* Vector */
+
+position: absolute;
+left: 52.33%;
+right: 44.33%;
+top: 68.7%;
+bottom: 29.03%;
+
+background: #fafafa;
+
+/* Vector */
+
+position: absolute;
+left: 56.13%;
+right: 42.29%;
+top: 66.96%;
+bottom: 31.93%;
+
+background: #fafafa;
+
+/* Vector */
+
+position: absolute;
+left: 55.64%;
+right: 42.84%;
+top: 67.4%;
+bottom: 31.51%;
+
+background: #fafafa;
+
+/* Vector */
+
+position: absolute;
+left: 54.36%;
+right: 43.94%;
+top: 68.24%;
+bottom: 30.66%;
+
+background: #fafafa;
+
+/* Vector */
+
+position: absolute;
+left: 55.05%;
+right: 43.39%;
+top: 67.82%;
+bottom: 31.08%;
+
+background: #fafafa;
+
+/* Vector */
+
+position: absolute;
+left: 58.04%;
+right: 33.88%;
+top: 64.88%;
+bottom: 27.73%;
+
+background: #ffbda7;
+
+/* Vector */
+
+position: absolute;
+left: 56.31%;
+right: 36.9%;
+top: 71.34%;
+bottom: 26.35%;
+
+background: #263238;
+
+/* Vector */
+
+position: absolute;
+left: 56.43%;
+right: 36.53%;
+top: 68.38%;
+bottom: 26.77%;
+
+background: #37474f;
+
+/* Vector */
+
+position: absolute;
+left: 56.4%;
+right: 40.27%;
+top: 71.04%;
+bottom: 26.69%;
+
+background: #fafafa;
+
+/* Vector */
+
+position: absolute;
+left: 60.19%;
+right: 38.23%;
+top: 69.3%;
+bottom: 29.59%;
+
+background: #fafafa;
+
+/* Vector */
+
+position: absolute;
+left: 59.7%;
+right: 38.78%;
+top: 69.73%;
+bottom: 29.17%;
+
+background: #fafafa;
+
+/* Vector */
+
+position: absolute;
+left: 58.42%;
+right: 39.87%;
+top: 70.58%;
+bottom: 28.32%;
+
+background: #fafafa;
+
+/* Vector */
+
+position: absolute;
+left: 59.12%;
+right: 39.33%;
+top: 70.16%;
+bottom: 28.74%;
+
+background: #fafafa;
+
+/* Vector */
+
+position: absolute;
+left: 58.69%;
+right: 20.75%;
+top: 51.56%;
+bottom: 35.35%;
+
+background: #37474f;
+
+/* Vector */
+
+position: absolute;
+left: 58.69%;
+right: 20.75%;
+top: 51.56%;
+bottom: 35.35%;
+
+background: #37474f;
+
+/* Vector */
+
+position: absolute;
+left: 63.83%;
+right: 20.99%;
+top: 53.43%;
+bottom: 37.96%;
+
+background: #263238;
+
+/* Vector */
+
+position: absolute;
+left: 63.14%;
+right: 16.39%;
+top: 52.47%;
+bottom: 32.87%;
+
+background: #37474f;
+
+/* freepik--Top--inject-4 */
+
+position: absolute;
+left: 70.48%;
+right: 1.79%;
+top: 33.7%;
+bottom: 42.77%;
+
+/* Vector */
+
+position: absolute;
+left: 77.27%;
+right: 11.68%;
+top: 33.7%;
+bottom: 50.56%;
+
+background: #263238;
+
+/* Vector */
+
+position: absolute;
+left: 70.48%;
+right: 19.49%;
+top: 37.39%;
+bottom: 49.99%;
+
+background: #ffbda7;
+
+/* Vector */
+
+position: absolute;
+left: 72.38%;
+right: 27.24%;
+top: 40.57%;
+bottom: 57.96%;
+
+background: #f0997a;
+
+/* Vector */
+
+position: absolute;
+left: 73.34%;
+right: 19.5%;
+top: 42.79%;
+bottom: 50.19%;
+
+background: #ba68c8;
+
+/* Vector */
+
+position: absolute;
+left: 73.34%;
+right: 19.5%;
+top: 42.79%;
+bottom: 50.19%;
+
+background: #000000;
+opacity: 0.1;
+
+/* Vector */
+
+position: absolute;
+left: 72.3%;
+right: 26.2%;
+top: 46.42%;
+bottom: 50.01%;
+
+background: #455a64;
+
+/* Vector */
+
+position: absolute;
+left: 75.1%;
+right: 13.97%;
+top: 43.03%;
+bottom: 42.77%;
+
+background: #ba68c8;
+
+/* Vector */
+
+position: absolute;
+left: 78.67%;
+right: 13.85%;
+top: 35.34%;
+bottom: 53.6%;
+
+background: #ffbda7;
+
+/* Vector */
+
+position: absolute;
+left: 81.24%;
+right: 18.19%;
+top: 38.34%;
+bottom: 61.08%;
+
+background: #263238;
+
+/* Vector */
+
+position: absolute;
+left: 79.32%;
+right: 20%;
+top: 37.3%;
+bottom: 62.23%;
+
+background: #263238;
+
+/* Vector */
+
+position: absolute;
+left: 81.48%;
+right: 17.88%;
+top: 37.45%;
+bottom: 62%;
+
+background: #263238;
+
+/* Vector */
+
+position: absolute;
+left: 79.09%;
+right: 20.34%;
+top: 38.1%;
+bottom: 61.3%;
+
+background: #263238;
+
+/* Vector */
+
+position: absolute;
+left: 79.48%;
+right: 19.39%;
+top: 38.08%;
+bottom: 60.12%;
+
+background: #f0997a;
+
+/* Vector */
+
+position: absolute;
+left: 81.25%;
+right: 16.19%;
+top: 40.86%;
+bottom: 57.39%;
+
+background: #f0997a;
+
+/* Vector */
+
+position: absolute;
+left: 80.67%;
+right: 18.68%;
+top: 40.36%;
+bottom: 58.99%;
+
+background: #f0997a;
+
+/* Vector */
+
+position: absolute;
+left: 78.22%;
+right: 16.02%;
+top: 33.72%;
+bottom: 62.62%;
+
+background: #263238;
+
+/* Vector */
+
+position: absolute;
+left: 84.33%;
+right: 1.79%;
+top: 44.38%;
+bottom: 45.21%;
+
+background: #ffbda7;
+
+/* Vector */
+
+position: absolute;
+left: 93.74%;
+right: 5.13%;
+top: 49.08%;
+bottom: 49.95%;
+
+background: #f0997a;
+
+/* Vector */
+
+position: absolute;
+left: 84.12%;
+right: 10.98%;
+top: 44.28%;
+bottom: 46.85%;
+
+background: #ba68c8;
+
+/* Vector */
+
+position: absolute;
+left: 84.12%;
+right: 10.98%;
+top: 44.28%;
+bottom: 46.85%;
+
+background: #000000;
+opacity: 0.1;
+
+/* Vector */
+
+position: absolute;
+left: 86.6%;
+right: 11.08%;
+top: 51.31%;
+bottom: 46.06%;
+
+background: #455a64;
+
+/* Vector */
+
+position: absolute;
+left: 79.26%;
+right: 15.85%;
+top: 43.26%;
+bottom: 53.59%;
+
+background: #fafafa;
+
+/* Vector */
+
+position: absolute;
+left: 80.5%;
+right: 15.23%;
+top: 43.03%;
+bottom: 54.05%;
+
+background: #f0f0f0;
+
+/* Vector */
+
+position: absolute;
+left: 79.64%;
+right: 18.75%;
+top: 42.68%;
+bottom: 54.35%;
+
+background: #f0f0f0;
+
+/* freepik--character-1--inject-4 */
+
+position: absolute;
+left: 7.32%;
+right: 54.76%;
+top: 33.51%;
+bottom: 14.9%;
+
+/* freepik--character-on-the-couch--inject-4 */
+
+position: absolute;
+left: 7.32%;
+right: 54.76%;
+top: 33.51%;
+bottom: 14.9%;
+
+/* freepik--Couch--inject-4 */
+
+position: absolute;
+left: 7.32%;
+right: 57.4%;
+top: 41.75%;
+bottom: 19.16%;
+
+/* Vector */
+
+position: absolute;
+left: 21.72%;
+right: 76%;
+top: 78.21%;
+bottom: 19.16%;
+
+background: #fafafa;
+
+/* Vector */
+
+position: absolute;
+left: 9.1%;
+right: 88.62%;
+top: 71.43%;
+bottom: 25.94%;
+
+background: #fafafa;
+
+/* Vector */
+
+position: absolute;
+left: 38.78%;
+right: 58.94%;
+top: 68.36%;
+bottom: 29.01%;
+
+background: #fafafa;
+
+/* Vector */
+
+position: absolute;
+left: 26.9%;
+right: 70.82%;
+top: 61.94%;
+bottom: 35.43%;
+
+background: #fafafa;
+
+/* Vector */
+
+position: absolute;
+left: 7.32%;
+right: 57.4%;
+top: 41.75%;
+bottom: 19.94%;
+
+background: #37474f;
+
+/* Vector */
+
+position: absolute;
+left: 7.33%;
+right: 73.54%;
+top: 41.76%;
+bottom: 47.54%;
+
+background: #455a64;
+
+/* Vector */
+
+position: absolute;
+left: 27.05%;
+right: 57.4%;
+top: 48.91%;
+bottom: 29.7%;
+
+background: #263238;
+
+/* Vector */
+
+position: absolute;
+left: 27.7%;
+right: 57.41%;
+top: 48.91%;
+bottom: 29.81%;
+
+background: #455a64;
+
+/* Vector */
+
+position: absolute;
+left: 39.15%;
+right: 57.41%;
+top: 55.91%;
+bottom: 29.81%;
+
+background: #37474f;
+
+/* Vector */
+
+position: absolute;
+left: 14.01%;
+right: 60.77%;
+top: 61.48%;
+bottom: 22.14%;
+
+background: #263238;
+
+/* Vector */
+
+position: absolute;
+left: 26.45%;
+right: 60.78%;
+top: 68.52%;
+bottom: 22.19%;
+
+background: #37474f;
+
+/* Vector */
+
+position: absolute;
+left: 14.01%;
+right: 60.78%;
+top: 56.01%;
+bottom: 25.4%;
+
+background: #37474f;
+
+/* Vector */
+
+position: absolute;
+left: 14.01%;
+right: 73.55%;
+top: 62.44%;
+bottom: 25.4%;
+
+background: #263238;
+
+/* Vector */
+
+position: absolute;
+left: 14.66%;
+right: 61.42%;
+top: 56.01%;
+bottom: 30.19%;
+
+background: #455a64;
+
+/* freepik--character--inject-4 */
+
+position: absolute;
+left: 15.2%;
+right: 54.76%;
+top: 33.51%;
+bottom: 14.9%;
+
+/* freepik--Legs--inject-4 */
+
+position: absolute;
+left: 17.22%;
+right: 54.76%;
+top: 55.5%;
+bottom: 14.9%;
+
+/* Vector */
+
+position: absolute;
+left: 31.83%;
+right: 63.18%;
+top: 66.49%;
+bottom: 20.71%;
+
+background: #ffa8a7;
+
+/* Vector */
+
+position: absolute;
+left: 31.33%;
+right: 62.92%;
+top: 71.51%;
+bottom: 20.25%;
+
+background: #455a64;
+
+/* Vector */
+
+position: absolute;
+left: 35.68%;
+right: 56.5%;
+top: 75.59%;
+bottom: 16.61%;
+
+background: #ffa8a7;
+
+/* Vector */
+
+position: absolute;
+left: 36.82%;
+right: 54.76%;
+top: 79.76%;
+bottom: 14.9%;
+
+background: #455a64;
+
+/* Vector */
+
+position: absolute;
+left: 17.22%;
+right: 60.36%;
+top: 55.5%;
+bottom: 21.01%;
+
+background: #ba68c8;
+
+/* Vector */
+
+position: absolute;
+left: 17.22%;
+right: 60.36%;
+top: 55.5%;
+bottom: 21.01%;
+
+background: #000000;
+opacity: 0.3;
+
+/* Vector */
+
+position: absolute;
+left: 26.69%;
+right: 63.35%;
+top: 57.36%;
+bottom: 29.57%;
+
+background: #000000;
+opacity: 0.15;
+
+/* Vector */
+
+position: absolute;
+left: 35.26%;
+right: 60.29%;
+top: 76.14%;
+bottom: 20.95%;
+
+background: #ba68c8;
+
+/* freepik--Arm--inject-4 */
+
+position: absolute;
+left: 22.42%;
+right: 64.73%;
+top: 43.76%;
+bottom: 42.77%;
+
+/* Vector */
+
+position: absolute;
+left: 22.46%;
+right: 64.73%;
+top: 43.82%;
+bottom: 42.77%;
+
+background: #ffa8a7;
+
+/* Vector */
+
+position: absolute;
+left: 22.42%;
+right: 69.97%;
+top: 43.76%;
+bottom: 44.41%;
+
+background: #ba68c8;
+
+/* Vector */
+
+position: absolute;
+left: 22.42%;
+right: 69.97%;
+top: 43.76%;
+bottom: 44.41%;
+
+background: #ffffff;
+opacity: 0.7;
+
+/* Vector */
+
+position: absolute;
+left: 26.87%;
+right: 71.34%;
+top: 51.7%;
+bottom: 47.47%;
+
+background: #000000;
+opacity: 0.15;
+
+/* freepik--Chest--inject-4 */
+
+position: absolute;
+left: 15.79%;
+right: 72.54%;
+top: 43.81%;
+bottom: 40.42%;
+
+/* Vector */
+
+position: absolute;
+left: 15.79%;
+right: 72.54%;
+top: 43.81%;
+bottom: 40.42%;
+
+background: #ba68c8;
+
+/* Vector */
+
+position: absolute;
+left: 15.79%;
+right: 72.54%;
+top: 43.81%;
+bottom: 40.42%;
+
+background: #ffffff;
+opacity: 0.85;
+
+/* Vector */
+
+position: absolute;
+left: 19.18%;
+right: 76.32%;
+top: 51.37%;
+bottom: 46.65%;
+
+background: #000000;
+opacity: 0.1;
+
+/* freepik--Head--inject-4 */
+
+position: absolute;
+left: 15.2%;
+right: 74.94%;
+top: 33.51%;
+bottom: 51.92%;
+
+/* Vector */
+
+position: absolute;
+left: 16.51%;
+right: 75.64%;
+top: 35.84%;
+bottom: 51.92%;
+
+background: #ffa8a7;
+
+/* Vector */
+
+position: absolute;
+left: 21.45%;
+right: 77.79%;
+top: 41.6%;
+bottom: 57.9%;
+
+background: #f28f8f;
+
+/* Vector */
+
+position: absolute;
+left: 23.14%;
+right: 76.09%;
+top: 37.69%;
+bottom: 61.8%;
+
+background: #455a64;
+
+/* Vector */
+
+position: absolute;
+left: 20.43%;
+right: 78.84%;
+top: 38.11%;
+bottom: 61.29%;
+
+background: #455a64;
+
+/* Vector */
+
+position: absolute;
+left: 23.18%;
+right: 76.16%;
+top: 38.99%;
+bottom: 60.35%;
+
+background: #263238;
+
+/* Vector */
+
+position: absolute;
+left: 20.74%;
+right: 78.62%;
+top: 39.25%;
+bottom: 60.12%;
+
+background: #263238;
+
+/* Vector */
+
+position: absolute;
+left: 18.85%;
+right: 78.58%;
+top: 42.22%;
+bottom: 56.23%;
+
+background: #f28f8f;
+
+/* Vector */
+
+position: absolute;
+left: 19.96%;
+right: 79.45%;
+top: 39.25%;
+bottom: 60.54%;
+
+background: #f28f8f;
+
+/* Vector */
+
+position: absolute;
+left: 19.96%;
+right: 79.44%;
+top: 39.6%;
+bottom: 60.26%;
+
+background: #f28f8f;
+
+/* Vector */
+
+position: absolute;
+left: 20.1%;
+right: 79.46%;
+top: 39.81%;
+bottom: 59.97%;
+
+background: #f28f8f;
+
+/* Vector */
+
+position: absolute;
+left: 15.2%;
+right: 75.16%;
+top: 33.51%;
+bottom: 56.64%;
+
+background: #e0e0e0;
+
+/* Vector */
+
+position: absolute;
+left: 17.25%;
+right: 80.56%;
+top: 37.3%;
+bottom: 60.07%;
+
+background: #f0f0f0;
+
+/* Vector */
+
+position: absolute;
+left: 19.36%;
+right: 74.94%;
+top: 38.22%;
+bottom: 58.99%;
+
+background: #37474f;
+
+/* Vector */
+
+position: absolute;
+left: 18.12%;
+right: 80.43%;
+top: 39.1%;
+bottom: 60.07%;
+
+background: #37474f;
+
+/* Vector */
+
+position: absolute;
+left: 22.2%;
+right: 76.48%;
+top: 39.35%;
+bottom: 58.78%;
+
+background: #f28f8f;
+
+/* freepik--writting-hand--inject-4 */
+
+position: absolute;
+left: 21.3%;
+right: 70.73%;
+top: 54.98%;
+bottom: 39.63%;
+
+/* Vector */
+
+position: absolute;
+left: 27.98%;
+right: 70.73%;
+top: 58.4%;
+bottom: 40.56%;
+
+background: #ffa8a7;
+
+/* Vector */
+
+position: absolute;
+left: 28.96%;
+right: 70.73%;
+top: 59.19%;
+bottom: 40.56%;
+
+background: #263238;
+
+/* Vector */
+
+position: absolute;
+left: 23.46%;
+right: 71.52%;
+top: 55.58%;
+bottom: 40.85%;
+
+background: #ba68c8;
+
+/* Vector */
+
+position: absolute;
+left: 23.84%;
+right: 75.44%;
+top: 55.82%;
+bottom: 43.28%;
+
+background: #ebebeb;
+
+/* Vector */
+
+position: absolute;
+left: 23.67%;
+right: 75.61%;
+top: 55.71%;
+bottom: 43.39%;
+
+background: #ba68c8;
+
+/* Vector */
+
+position: absolute;
+left: 23.46%;
+right: 75.82%;
+top: 55.59%;
+bottom: 43.52%;
+
+background: #ebebeb;
+
+/* Vector */
+
+position: absolute;
+left: 23.47%;
+right: 70.74%;
+top: 55.97%;
+bottom: 40.56%;
+
+background: #000000;
+opacity: 0.15;
+
+/* Vector */
+
+position: absolute;
+left: 22.46%;
+right: 76.04%;
+top: 54.98%;
+bottom: 43.65%;
+
+background: #f28f8f;
+
+/* Vector */
+
+position: absolute;
+left: 22.46%;
+right: 76.95%;
+top: 54.98%;
+bottom: 44.23%;
+
+background: #000000;
+opacity: 0.1;
+
+/* Vector */
+
+position: absolute;
+left: 25.59%;
+right: 73.04%;
+top: 56.59%;
+bottom: 42.62%;
+
+background: #f28f8f;
+
+/* Vector */
+
+position: absolute;
+left: 21.3%;
+right: 71.34%;
+top: 56.95%;
+bottom: 39.63%;
+
+background: #ffa8a7;
+
+/* freepik--Notebook--inject-4 */
+
+position: absolute;
+left: 27.9%;
+right: 64.32%;
+top: 51.57%;
+bottom: 38.36%;
+
+/* Vector */
+
+position: absolute;
+left: 27.9%;
+right: 64.73%;
+top: 51.92%;
+bottom: 38.6%;
+
+background: #f5f5f5;
+
+/* Vector */
+
+position: absolute;
+left: 27.9%;
+right: 70.2%;
+top: 54.52%;
+bottom: 38.6%;
+
+background: #ebebeb;
+
+/* Vector */
+
+position: absolute;
+left: 28.27%;
+right: 64.51%;
+top: 52.27%;
+bottom: 38.36%;
+
+background: #ba68c8;
+
+/* Vector */
+
+position: absolute;
+left: 28.27%;
+right: 64.51%;
+top: 52.27%;
+bottom: 38.36%;
+
+background: #ffffff;
+opacity: 0.7;
+
+/* Vector */
+
+position: absolute;
+left: 28.27%;
+right: 70.11%;
+top: 54.93%;
+bottom: 38.36%;
+
+background: #ba68c8;
+
+/* Vector */
+
+position: absolute;
+left: 28.27%;
+right: 70.11%;
+top: 54.93%;
+bottom: 38.36%;
+
+background: #000000;
+opacity: 0.15;
+
+/* Vector */
+
+position: absolute;
+left: 28.42%;
+right: 64.51%;
+top: 52.42%;
+bottom: 38.36%;
+
+background: #ba68c8;
+
+/* Group */
+
+position: absolute;
+left: 32.64%;
+right: 65.88%;
+top: 57.38%;
+bottom: 42.14%;
+
+opacity: 0.2;
+
+/* Vector */
+
+position: absolute;
+left: 32.64%;
+right: 65.88%;
+top: 57.38%;
+bottom: 42.14%;
+
+background: #000000;
+
+/* Vector */
+
+position: absolute;
+left: 30.12%;
+right: 69.63%;
+top: 55.16%;
+bottom: 44.51%;
+
+background: #000000;
+opacity: 0.35;
+
+/* Vector */
+
+position: absolute;
+left: 29.51%;
+right: 69.45%;
+top: 53.77%;
+bottom: 44.58%;
+
+background: #e0e0e0;
+
+/* Vector */
+
+position: absolute;
+left: 30.89%;
+right: 68.86%;
+top: 54.8%;
+bottom: 44.87%;
+
+background: #000000;
+opacity: 0.35;
+
+/* Vector */
+
+position: absolute;
+left: 30.29%;
+right: 68.68%;
+top: 53.4%;
+bottom: 44.95%;
+
+background: #e0e0e0;
+
+/* Vector */
+
+position: absolute;
+left: 31.66%;
+right: 68.09%;
+top: 54.43%;
+bottom: 45.24%;
+
+background: #000000;
+opacity: 0.35;
+
+/* Vector */
+
+position: absolute;
+left: 31.06%;
+right: 67.91%;
+top: 53.05%;
+bottom: 45.33%;
+
+background: #e0e0e0;
+
+/* Vector */
+
+position: absolute;
+left: 32.43%;
+right: 67.32%;
+top: 54.06%;
+bottom: 45.61%;
+
+background: #000000;
+opacity: 0.35;
+
+/* Vector */
+
+position: absolute;
+left: 31.82%;
+right: 67.15%;
+top: 52.67%;
+bottom: 45.68%;
+
+background: #e0e0e0;
+
+/* Vector */
+
+position: absolute;
+left: 33.19%;
+right: 66.55%;
+top: 53.7%;
+bottom: 45.97%;
+
+background: #000000;
+opacity: 0.35;
+
+/* Vector */
+
+position: absolute;
+left: 32.59%;
+right: 66.38%;
+top: 52.31%;
+bottom: 46.05%;
+
+background: #e0e0e0;
+
+/* Vector */
+
+position: absolute;
+left: 33.96%;
+right: 65.78%;
+top: 53.33%;
+bottom: 46.34%;
+
+background: #000000;
+opacity: 0.35;
+
+/* Vector */
+
+position: absolute;
+left: 33.36%;
+right: 65.61%;
+top: 51.94%;
+bottom: 46.41%;
+
+background: #e0e0e0;
+
+/* Vector */
+
+position: absolute;
+left: 34.73%;
+right: 65.01%;
+top: 52.97%;
+bottom: 46.7%;
+
+background: #000000;
+opacity: 0.35;
+
+/* Vector */
+
+position: absolute;
+left: 34.13%;
+right: 64.84%;
+top: 51.57%;
+bottom: 46.78%;
+
+background: #e0e0e0;
+
+/* Vector */
+
+position: absolute;
+left: 32.01%;
+right: 64.32%;
+top: 53.55%;
+bottom: 42.33%;
+
+background: #ffa8a7;
+
+/* Vector */
+
+position: absolute;
+left: 7.32%;
+right: 77.44%;
+top: 51.52%;
+bottom: 20.04%;
+
+background: #263238;
+
+/* Vector */
+
+position: absolute;
+left: 10.85%;
+right: 74.33%;
+top: 58.68%;
+bottom: 19.94%;
+
+background: #455a64;
+
+/* Vector */
+
+position: absolute;
+left: 21.61%;
+right: 74.34%;
+top: 65.67%;
+bottom: 19.93%;
+
+background: #37474f;
+
+/* freepik--arm--inject-4 */
+
+position: absolute;
+left: 12.66%;
+right: 77.31%;
+top: 45.48%;
+bottom: 39.13%;
+
+/* Vector */
+
+position: absolute;
+left: 12.84%;
+right: 77.31%;
+top: 45.56%;
+bottom: 39.16%;
+
+background: #ffa8a7;
+
+/* Vector */
+
+position: absolute;
+left: 12.66%;
+right: 82.27%;
+top: 45.48%;
+bottom: 39.13%;
+
+background: #ba68c8;
+
+/* Vector */
+
+position: absolute;
+left: 12.66%;
+right: 82.27%;
+top: 45.48%;
+bottom: 39.13%;
+
+background: #ffffff;
+opacity: 0.7;
+
+/* Vector */
+
+position: absolute;
+left: 14.6%;
+right: 83.2%;
+top: 56.72%;
+bottom: 42.39%;
+
+background: #000000;
+opacity: 0.15;
+
+/* freepik--Line--inject-4 */
+
+position: absolute;
+left: 15.81%;
+right: 11.86%;
+top: 17.77%;
+bottom: 67.94%;
+
+/* freepik--Lines--inject-4 */
+
+position: absolute;
+left: 15.81%;
+right: 11.86%;
+top: 17.77%;
+bottom: 67.94%;
+
+/* Vector */
+
+position: absolute;
+left: 15.81%;
+right: 12.77%;
+top: 17.77%;
+bottom: 67.94%;
+
+background: #455a64;
+
+/* Vector */
+
+position: absolute;
+left: 79.64%;
+right: 11.86%;
+top: 17.78%;
+bottom: 75.89%;
+
+background: #455a64;
+
+/* Group 2 */
+
+width: 1440px;
+height: 1312.57px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Group 1 */
+
+position: absolute;
+width: 1440px;
+height: 1312.57px;
+left: 0px;
+top: 3767.43px;
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 1440px;
+height: 1312.57px;
+left: 0px;
+top: 3767.43px;
+
+background: #003d48;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 15px 40px;
+
+position: absolute;
+width: 1182.32px;
+height: 1143.5px;
+left: calc(50% - 1182.32px / 2 + 10.61px);
+top: 3808.5px;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 40px 0px 0px;
+gap: 48px;
+
+width: 1152.32px;
+height: 1103.5px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Heading 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 143.58px;
+
+width: 1152.32px;
+height: 56px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Mannmuktt vs. traditional in-office therapy */
+
+width: 884px;
+height: 56px;
+
+/* www.betterhelp.com/Overpass/Light 48 */
+font-family: "Overpass";
+font-style: normal;
+font-weight: 300;
+font-size: 48px;
+line-height: 56px;
+/* identical to box height, or 117% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.96px;
+
+/* www.betterhelp.com/Gray Nurse */
+color: #f5f7f5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Table */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 792px;
+max-width: 792px;
+height: 959.5px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Header → Row */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 0px 0px 396px;
+gap: 0px;
+
+width: 792px;
+height: 84px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* Cell */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px;
+isolation: isolate;
+
+width: 198px;
+height: 84px;
+
+background: #0097b2;
+border-radius: 8px 8px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* MannMuktt */
+
+position: absolute;
+width: 91px;
+height: 36px;
+left: 52px;
+top: 28px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 36px;
+/* identical to box height, or 225% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+/* Cell */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 31px 24px 25px;
+
+width: 198.97px;
+height: 84px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Heading 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 36.48px 0px 36.49px;
+
+width: 150.97px;
+height: 28px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+/* In-office */
+
+width: 78px;
+height: 28px;
+
+/* www.betterhelp.com/Overpass/Medium 20 */
+font-family: "Overpass";
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 28px;
+/* identical to box height, or 140% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* www.betterhelp.com/Gray Nurse */
+color: #f5f7f5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Body */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 792.36px;
+height: 875.5px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Row */
+
+width: 792px;
+height: 72.5px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 24px 83.02px 25px 83px;
+
+position: absolute;
+height: 73px;
+left: 75%;
+right: 0%;
+top: calc(50% - 73px / 2 + 0.25px);
+
+/* www.betterhelp.com/Stack */
+border-bottom: 1px solid #939b92;
+
+/* Background */
+
+width: 32px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* yes.svg fill */
+
+position: absolute;
+width: 32px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* yes.svg */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: calc(50% - 32px / 2);
+top: calc(50% - 32px / 2);
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #d3f9ff;
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 8.33%;
+top: 16.67%;
+bottom: 41.67%;
+
+border: 3px solid #0097b2;
+
+/* Yes */
+
+position: absolute;
+width: 27.45px;
+height: 32px;
+left: calc(50% - 27.45px / 2 - 4999.31px);
+top: 0px;
+
+/* www.betterhelp.com/Inter/Regular 16 */
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #4a4d4a;
+
+/* Cell */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 24px 122.7px 25px 2px;
+
+position: absolute;
+width: 396.7px;
+height: 73px;
+left: 0px;
+top: calc(50% - 73px / 2 + 0.25px);
+
+/* www.betterhelp.com/Stack */
+border-bottom: 1px solid #939b92;
+
+/* Provided by a licensed therapist  */
+
+width: 248px;
+height: 22px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+display: flex;
+align-items: center;
+
+/* www.betterhelp.com/Gray Nurse */
+color: #f5f7f5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px -5.68434e-14px;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 24px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Image */
+
+width: 24px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* info-light-green.svg fill */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* info-light-green.svg */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #0097b2;
+
+/* Data */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 24px 83px 25px 82.98px;
+isolation: isolate;
+
+position: absolute;
+height: 73px;
+left: 50%;
+right: 25%;
+top: calc(50% - 73px / 2 + 0.25px);
+
+/* Overlay+Shadow */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0px;
+bottom: 0.5px;
+
+/* www.betterhelp.com/White 0.2% */
+background: rgba(255, 255, 255, 0.002);
+box-shadow: 0px 0px 26px rgba(0, 0, 0, 0.15);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0px;
+bottom: 0.5px;
+
+/* www.betterhelp.com/White */
+background: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+/* Data paints */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* www.betterhelp.com/White */
+background: #ffffff;
+/* www.betterhelp.com/Gray Nurse */
+border-bottom: 1px solid #e7ece7;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+/* Background */
+
+width: 32px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+/* yes.svg fill */
+
+position: absolute;
+width: 32px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* yes.svg */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: calc(50% - 32px / 2);
+top: calc(50% - 32px / 2);
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #d3f9ff;
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 8.33%;
+top: 16.67%;
+bottom: 41.67%;
+
+border: 3px solid #0097b2;
+
+/* Yes */
+
+position: absolute;
+width: 27.45px;
+height: 32px;
+left: calc(50% - 27.45px / 2 - 4999.31px);
+top: 0px;
+
+/* www.betterhelp.com/Inter/Regular 16 */
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #deedc7;
+
+/* Row */
+
+box-sizing: border-box;
+
+width: 792px;
+height: 73px;
+
+/* www.betterhelp.com/Stack */
+border-top: 1px solid #939b92;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 24px 83.02px 25px 83px;
+
+position: absolute;
+height: 73px;
+left: 75%;
+right: 0%;
+top: calc(50% - 73px / 2);
+
+/* www.betterhelp.com/Stack */
+border-bottom: 1px solid #939b92;
+
+/* Background */
+
+width: 32px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* yes.svg fill */
+
+position: absolute;
+width: 32px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* yes.svg */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: calc(50% - 32px / 2);
+top: calc(50% - 32px / 2);
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #d3f9ff;
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 8.33%;
+top: 16.67%;
+bottom: 41.67%;
+
+border: 3px solid #0097b2;
+
+/* Yes */
+
+position: absolute;
+width: 27.45px;
+height: 32px;
+left: calc(50% - 27.45px / 2 - 4999.31px);
+top: 0px;
+
+/* www.betterhelp.com/Inter/Regular 16 */
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #4a4d4a;
+
+/* Cell */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 24px 258.02px 25px 2px;
+gap: 0px;
+
+position: absolute;
+width: 396.02px;
+height: 73px;
+left: 0px;
+top: calc(50% - 73px / 2);
+
+/* www.betterhelp.com/Stack */
+border-bottom: 1px solid #939b92;
+
+/* In-office visits  */
+
+width: 112px;
+height: 22px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+display: flex;
+align-items: center;
+
+/* www.betterhelp.com/Gray Nurse */
+color: #f5f7f5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 24px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Image */
+
+width: 24px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* info-light-green.svg fill */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* info-light-green.svg */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #0097b2;
+
+/* Data */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 24px 83px 25px 82.98px;
+isolation: isolate;
+
+position: absolute;
+height: 73px;
+left: 50%;
+right: 25%;
+top: calc(50% - 73px / 2);
+
+/* Overlay+Shadow */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0.5px;
+bottom: 0.5px;
+
+/* www.betterhelp.com/White 0.2% */
+background: rgba(255, 255, 255, 0.002);
+box-shadow: 0px 0px 26px rgba(0, 0, 0, 0.15);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0.5px;
+bottom: 0.5px;
+
+/* www.betterhelp.com/White */
+background: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+/* Data paints */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* www.betterhelp.com/White */
+background: #ffffff;
+/* www.betterhelp.com/Gray Nurse */
+border-bottom: 1px solid #e7ece7;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+/* Background */
+
+width: 32px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+/* no.svg fill */
+
+position: absolute;
+width: 32px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* no.svg */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: calc(50% - 32px / 2);
+top: calc(50% - 32px / 2);
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 20.83%;
+bottom: 20.83%;
+
+background: #eb5757;
+
+/* No */
+
+position: absolute;
+width: 21.92px;
+height: 32px;
+left: calc(50% - 21.92px / 2 - 4999.33px);
+top: 0px;
+
+/* www.betterhelp.com/Inter/Regular 16 */
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* www.betterhelp.com/Gray Asparagus */
+color: #4a4d4a;
+
+/* Row */
+
+box-sizing: border-box;
+
+width: 792px;
+height: 73px;
+
+/* www.betterhelp.com/Stack */
+border-top: 1px solid #939b92;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 24px 83.02px 25px 83px;
+
+position: absolute;
+height: 73px;
+left: 75%;
+right: 0%;
+top: calc(50% - 73px / 2);
+
+/* www.betterhelp.com/Stack */
+border-bottom: 1px solid #939b92;
+
+/* Background */
+
+width: 32px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* no.svg fill */
+
+position: absolute;
+width: 32px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* no.svg */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: calc(50% - 32px / 2);
+top: calc(50% - 32px / 2);
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 20.83%;
+bottom: 20.83%;
+
+/* www.betterhelp.com/Burnt Sienna */
+background: #eb5757;
+
+/* No */
+
+position: absolute;
+width: 21.92px;
+height: 32px;
+left: calc(50% - 21.92px / 2 - 4999.33px);
+top: 0px;
+
+/* www.betterhelp.com/Inter/Regular 16 */
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* www.betterhelp.com/Gray Asparagus */
+color: #4a4d4a;
+
+/* Cell */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 24px 214.72px 25px 2px;
+
+position: absolute;
+width: 396.72px;
+height: 73px;
+left: 0px;
+top: calc(50% - 73px / 2);
+
+/* www.betterhelp.com/Stack */
+border-bottom: 1px solid #939b92;
+
+/* Messaging any time  */
+
+width: 156px;
+height: 22px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+display: flex;
+align-items: center;
+
+/* www.betterhelp.com/Gray Nurse */
+color: #f5f7f5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px -2.84217e-14px;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 24px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Image */
+
+width: 24px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* info-light-green.svg fill */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* info-light-green.svg */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #0097b2;
+
+/* Data */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 24px 83px 25px 82.98px;
+isolation: isolate;
+
+position: absolute;
+height: 73px;
+left: 50%;
+right: 25%;
+top: calc(50% - 73px / 2);
+
+/* Overlay+Shadow */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0.5px;
+bottom: 0.5px;
+
+/* www.betterhelp.com/White 0.2% */
+background: rgba(255, 255, 255, 0.002);
+box-shadow: 0px 0px 26px rgba(0, 0, 0, 0.15);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0.5px;
+bottom: 0.5px;
+
+/* www.betterhelp.com/White */
+background: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+/* Data paints */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* www.betterhelp.com/White */
+background: #ffffff;
+/* www.betterhelp.com/Gray Nurse */
+border-bottom: 1px solid #e7ece7;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+/* Background */
+
+width: 32px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+/* yes.svg fill */
+
+position: absolute;
+width: 32px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* yes.svg */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: calc(50% - 32px / 2);
+top: calc(50% - 32px / 2);
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #d3f9ff;
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 8.33%;
+top: 16.67%;
+bottom: 41.67%;
+
+border: 3px solid #0097b2;
+
+/* Yes */
+
+position: absolute;
+width: 27.45px;
+height: 32px;
+left: calc(50% - 27.45px / 2 - 4999.31px);
+top: 0px;
+
+/* www.betterhelp.com/Inter/Regular 16 */
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* www.betterhelp.com/Gray Asparagus */
+color: #4a4d4a;
+
+/* Row */
+
+box-sizing: border-box;
+
+width: 792px;
+height: 73px;
+
+/* www.betterhelp.com/Stack */
+border-top: 1px solid #939b92;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 24px 83.02px 25px 83px;
+
+position: absolute;
+height: 73px;
+left: 75%;
+right: 0%;
+top: calc(50% - 73px / 2);
+
+/* www.betterhelp.com/Stack */
+border-bottom: 1px solid #939b92;
+
+/* Background */
+
+width: 32px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* no.svg fill */
+
+position: absolute;
+width: 32px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* no.svg */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: calc(50% - 32px / 2);
+top: calc(50% - 32px / 2);
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 20.83%;
+bottom: 20.83%;
+
+/* www.betterhelp.com/Burnt Sienna */
+background: #eb5757;
+
+/* No */
+
+position: absolute;
+width: 21.92px;
+height: 32px;
+left: calc(50% - 21.92px / 2 - 4999.33px);
+top: 0px;
+
+/* www.betterhelp.com/Inter/Regular 16 */
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* www.betterhelp.com/Gray Asparagus */
+color: #4a4d4a;
+
+/* Cell */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 24px 259.58px 25px 2px;
+
+position: absolute;
+width: 396.58px;
+height: 73px;
+left: 0px;
+top: calc(50% - 73px / 2);
+
+/* www.betterhelp.com/Stack */
+border-bottom: 1px solid #939b92;
+
+/* Chat sessions  */
+
+width: 111px;
+height: 22px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+display: flex;
+align-items: center;
+
+/* www.betterhelp.com/Gray Nurse */
+color: #f5f7f5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px -4.26326e-14px;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 24px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Image */
+
+width: 24px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* info-light-green.svg fill */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* info-light-green.svg */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #0097b2;
+
+/* Data */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 24px 83px 25px 82.98px;
+isolation: isolate;
+
+position: absolute;
+height: 73px;
+left: 50%;
+right: 25%;
+top: calc(50% - 73px / 2);
+
+/* Overlay+Shadow */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0.5px;
+bottom: 0.5px;
+
+/* www.betterhelp.com/White 0.2% */
+background: rgba(255, 255, 255, 0.002);
+box-shadow: 0px 0px 26px rgba(0, 0, 0, 0.15);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0.5px;
+bottom: 0.5px;
+
+/* www.betterhelp.com/White */
+background: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+/* Data paints */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* www.betterhelp.com/White */
+background: #ffffff;
+/* www.betterhelp.com/Gray Nurse */
+border-bottom: 1px solid #e7ece7;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+/* Background */
+
+width: 32px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+/* yes.svg fill */
+
+position: absolute;
+width: 32px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* yes.svg */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: calc(50% - 32px / 2);
+top: calc(50% - 32px / 2);
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #d3f9ff;
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 8.33%;
+top: 16.67%;
+bottom: 41.67%;
+
+border: 3px solid #0097b2;
+
+/* Yes */
+
+position: absolute;
+width: 27.45px;
+height: 32px;
+left: calc(50% - 27.45px / 2 - 4999.31px);
+top: 0px;
+
+/* www.betterhelp.com/Inter/Regular 16 */
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #4a4d4a;
+
+/* Row */
+
+box-sizing: border-box;
+
+width: 792px;
+height: 73px;
+
+/* www.betterhelp.com/Stack */
+border-top: 1px solid #939b92;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 24px 83.02px 25px 83px;
+
+position: absolute;
+height: 73px;
+left: 75%;
+right: 0%;
+top: calc(50% - 73px / 2);
+
+/* www.betterhelp.com/Stack */
+border-bottom: 1px solid #939b92;
+
+/* Background */
+
+width: 32px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* no.svg fill */
+
+position: absolute;
+width: 32px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* no.svg */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: calc(50% - 32px / 2);
+top: calc(50% - 32px / 2);
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 20.83%;
+bottom: 20.83%;
+
+/* www.betterhelp.com/Burnt Sienna */
+background: #eb5757;
+
+/* No */
+
+position: absolute;
+width: 21.92px;
+height: 32px;
+left: calc(50% - 21.92px / 2 - 4999.33px);
+top: 0px;
+
+/* www.betterhelp.com/Inter/Regular 16 */
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* www.betterhelp.com/Gray Asparagus */
+color: #4a4d4a;
+
+/* Cell */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 24px 247.67px 25px 2px;
+gap: 0px;
+
+position: absolute;
+width: 396.67px;
+height: 73px;
+left: 0px;
+top: calc(50% - 73px / 2);
+
+/* www.betterhelp.com/Stack */
+border-bottom: 1px solid #939b92;
+
+/* Phone sessions  */
+
+width: 123px;
+height: 22px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+display: flex;
+align-items: center;
+
+/* www.betterhelp.com/Gray Nurse */
+color: #f5f7f5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 24px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Image */
+
+width: 24px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* info-light-green.svg fill */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* info-light-green.svg */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #0097b2;
+
+/* Data */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 24px 83px 25px 82.98px;
+isolation: isolate;
+
+position: absolute;
+height: 73px;
+left: 50%;
+right: 25%;
+top: calc(50% - 73px / 2);
+
+/* Overlay+Shadow */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0.5px;
+bottom: 0.5px;
+
+/* www.betterhelp.com/White 0.2% */
+background: rgba(255, 255, 255, 0.002);
+box-shadow: 0px 0px 26px rgba(0, 0, 0, 0.15);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0.5px;
+bottom: 0.5px;
+
+/* www.betterhelp.com/White */
+background: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+/* Data paints */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* www.betterhelp.com/White */
+background: #ffffff;
+/* www.betterhelp.com/Gray Nurse */
+border-bottom: 1px solid #e7ece7;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+/* Background */
+
+width: 32px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+/* yes.svg fill */
+
+position: absolute;
+width: 32px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* yes.svg */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: calc(50% - 32px / 2);
+top: calc(50% - 32px / 2);
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #d3f9ff;
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 8.33%;
+top: 16.67%;
+bottom: 41.67%;
+
+border: 3px solid #0097b2;
+
+/* Yes */
+
+position: absolute;
+width: 27.45px;
+height: 32px;
+left: calc(50% - 27.45px / 2 - 4999.31px);
+top: 0px;
+
+/* www.betterhelp.com/Inter/Regular 16 */
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* www.betterhelp.com/Gray Asparagus */
+color: #4a4d4a;
+
+/* Row */
+
+box-sizing: border-box;
+
+width: 792px;
+height: 73px;
+
+/* www.betterhelp.com/Stack */
+border-top: 1px solid #939b92;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 24px 83.02px 25px 83px;
+
+position: absolute;
+height: 73px;
+left: 75%;
+right: 0%;
+top: calc(50% - 73px / 2);
+
+/* www.betterhelp.com/Stack */
+border-bottom: 1px solid #939b92;
+
+/* Background */
+
+width: 32px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* no.svg fill */
+
+position: absolute;
+width: 32px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* no.svg */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: calc(50% - 32px / 2);
+top: calc(50% - 32px / 2);
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 20.83%;
+bottom: 20.83%;
+
+/* www.betterhelp.com/Burnt Sienna */
+background: #eb5757;
+
+/* No */
+
+position: absolute;
+width: 21.92px;
+height: 32px;
+left: calc(50% - 21.92px / 2 - 4999.33px);
+top: 0px;
+
+/* www.betterhelp.com/Inter/Regular 16 */
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* www.betterhelp.com/Gray Asparagus */
+color: #4a4d4a;
+
+/* Cell */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 24px 252.11px 25px 2px;
+
+position: absolute;
+width: 396.11px;
+height: 73px;
+left: 0px;
+top: calc(50% - 73px / 2);
+
+/* www.betterhelp.com/Stack */
+border-bottom: 1px solid #939b92;
+
+/* Video sessions  */
+
+width: 118px;
+height: 22px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+display: flex;
+align-items: center;
+
+/* www.betterhelp.com/Gray Nurse */
+color: #f5f7f5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px -1.42109e-14px;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 24px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Image */
+
+width: 24px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* info-light-green.svg fill */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* info-light-green.svg */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #0097b2;
+
+/* Data */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 24px 83px 25px 82.98px;
+isolation: isolate;
+
+position: absolute;
+height: 73px;
+left: 50%;
+right: 25%;
+top: calc(50% - 73px / 2);
+
+/* Overlay+Shadow */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0.5px;
+bottom: 0.5px;
+
+/* www.betterhelp.com/White 0.2% */
+background: rgba(255, 255, 255, 0.002);
+box-shadow: 0px 0px 26px rgba(0, 0, 0, 0.15);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0.5px;
+bottom: 0.5px;
+
+/* www.betterhelp.com/White */
+background: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+/* Data paints */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* www.betterhelp.com/White */
+background: #ffffff;
+/* www.betterhelp.com/Gray Nurse */
+border-bottom: 1px solid #e7ece7;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+/* Background */
+
+width: 32px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+/* yes.svg fill */
+
+position: absolute;
+width: 32px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* yes.svg */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: calc(50% - 32px / 2);
+top: calc(50% - 32px / 2);
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #d3f9ff;
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 8.33%;
+top: 16.67%;
+bottom: 41.67%;
+
+border: 3px solid #0097b2;
+
+/* Yes */
+
+position: absolute;
+width: 27.45px;
+height: 32px;
+left: calc(50% - 27.45px / 2 - 4999.31px);
+top: 0px;
+
+/* www.betterhelp.com/Inter/Regular 16 */
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* www.betterhelp.com/Gray Asparagus */
+color: #4a4d4a;
+
+/* Row */
+
+box-sizing: border-box;
+
+width: 792px;
+height: 73px;
+
+/* www.betterhelp.com/Stack */
+border-top: 1px solid #939b92;
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 24px 83.02px 25px 83px;
+
+position: absolute;
+height: 73px;
+left: 75%;
+right: 0%;
+top: calc(50% - 73px / 2);
+
+/* www.betterhelp.com/Stack */
+border-bottom: 1px solid #939b92;
+
+/* Background */
+
+width: 32px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* no.svg fill */
+
+position: absolute;
+width: 32px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* no.svg */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: calc(50% - 32px / 2);
+top: calc(50% - 32px / 2);
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 20.83%;
+bottom: 20.83%;
+
+/* www.betterhelp.com/Burnt Sienna */
+background: #eb5757;
+
+/* No */
+
+position: absolute;
+width: 21.92px;
+height: 32px;
+left: calc(50% - 21.92px / 2 - 4999.33px);
+top: 0px;
+
+/* www.betterhelp.com/Inter/Regular 16 */
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* www.betterhelp.com/Gray Asparagus */
+color: #4a4d4a;
+
+/* Cell */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 24px 243.12px 25px 2px;
+
+position: absolute;
+width: 396.12px;
+height: 73px;
+left: 0px;
+top: calc(50% - 73px / 2);
+
+/* www.betterhelp.com/Stack */
+border-bottom: 1px solid #939b92;
+
+/* Easy scheduling  */
+
+width: 127px;
+height: 22px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+display: flex;
+align-items: center;
+
+/* www.betterhelp.com/Gray Nurse */
+color: #f5f7f5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 24px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Image */
+
+width: 24px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* info-light-green.svg fill */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* info-light-green.svg */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #0097b2;
+
+/* Data */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 24px 83px 25px 82.98px;
+isolation: isolate;
+
+position: absolute;
+height: 73px;
+left: 50%;
+right: 25%;
+top: calc(50% - 73px / 2);
+
+/* Overlay+Shadow */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0.5px;
+bottom: 0.5px;
+
+/* www.betterhelp.com/White 0.2% */
+background: rgba(255, 255, 255, 0.002);
+box-shadow: 0px 0px 26px rgba(0, 0, 0, 0.15);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0.5px;
+bottom: 0.5px;
+
+/* www.betterhelp.com/White */
+background: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+/* Data paints */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* www.betterhelp.com/White */
+background: #ffffff;
+/* www.betterhelp.com/Gray Nurse */
+border-bottom: 1px solid #e7ece7;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+/* Background */
+
+width: 32px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+/* yes.svg fill */
+
+position: absolute;
+width: 32px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* yes.svg */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: calc(50% - 32px / 2);
+top: calc(50% - 32px / 2);
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #d3f9ff;
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 8.33%;
+top: 16.67%;
+bottom: 41.67%;
+
+border: 3px solid #0097b2;
+
+/* Yes */
+
+position: absolute;
+width: 27.45px;
+height: 32px;
+left: calc(50% - 27.45px / 2 - 4999.31px);
+top: 0px;
+
+/* www.betterhelp.com/Inter/Regular 16 */
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #4a4d4a;
+
+/* Row */
+
+box-sizing: border-box;
+
+width: 792px;
+height: 73px;
+
+/* www.betterhelp.com/Stack */
+border-top: 1px solid #939b92;
+
+/* Inside auto layout */
+flex: none;
+order: 7;
+flex-grow: 0;
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 24px 83.02px 25px 83px;
+
+position: absolute;
+height: 73px;
+left: 75%;
+right: 0%;
+top: calc(50% - 73px / 2);
+
+/* www.betterhelp.com/Stack */
+border-bottom: 1px solid #939b92;
+
+/* Background */
+
+width: 32px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* no.svg fill */
+
+position: absolute;
+width: 32px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* no.svg */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: calc(50% - 32px / 2);
+top: calc(50% - 32px / 2);
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 20.83%;
+bottom: 20.83%;
+
+/* www.betterhelp.com/Burnt Sienna */
+background: #eb5757;
+
+/* No */
+
+position: absolute;
+width: 21.92px;
+height: 32px;
+left: calc(50% - 21.92px / 2 - 4999.33px);
+top: 0px;
+
+/* www.betterhelp.com/Inter/Regular 16 */
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* www.betterhelp.com/Gray Asparagus */
+color: #4a4d4a;
+
+/* Cell */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 24px 226.12px 25px 2px;
+
+position: absolute;
+width: 396.12px;
+height: 73px;
+left: 0px;
+top: calc(50% - 73px / 2);
+
+/* www.betterhelp.com/Stack */
+border-bottom: 1px solid #939b92;
+
+/* Digital worksheets  */
+
+width: 144px;
+height: 22px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+display: flex;
+align-items: center;
+
+/* www.betterhelp.com/Gray Nurse */
+color: #f5f7f5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 24px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Image */
+
+width: 24px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* info-light-green.svg fill */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* info-light-green.svg */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #0097b2;
+
+/* Data */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 24px 83px 25px 82.98px;
+isolation: isolate;
+
+position: absolute;
+height: 73px;
+left: 50%;
+right: 25%;
+top: calc(50% - 73px / 2);
+
+/* Overlay+Shadow */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0.5px;
+bottom: 0.5px;
+
+/* www.betterhelp.com/White 0.2% */
+background: rgba(255, 255, 255, 0.002);
+box-shadow: 0px 0px 26px rgba(0, 0, 0, 0.15);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0.5px;
+bottom: 0.5px;
+
+/* www.betterhelp.com/White */
+background: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+/* Data paints */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* www.betterhelp.com/White */
+background: #ffffff;
+/* www.betterhelp.com/Gray Nurse */
+border-bottom: 1px solid #e7ece7;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+/* Background */
+
+width: 32px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+/* yes.svg fill */
+
+position: absolute;
+width: 32px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* yes.svg */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: calc(50% - 32px / 2);
+top: calc(50% - 32px / 2);
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #d3f9ff;
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 8.33%;
+top: 16.67%;
+bottom: 41.67%;
+
+border: 3px solid #0097b2;
+
+/* Yes */
+
+position: absolute;
+width: 27.45px;
+height: 32px;
+left: calc(50% - 27.45px / 2 - 4999.31px);
+top: 0px;
+
+/* www.betterhelp.com/Inter/Regular 16 */
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* www.betterhelp.com/Gray Asparagus */
+color: #4a4d4a;
+
+/* Row */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 792.36px;
+height: 73px;
+
+/* www.betterhelp.com/Stack */
+border-top: 1px solid #939b92;
+
+/* Inside auto layout */
+flex: none;
+order: 8;
+flex-grow: 0;
+
+/* Cell */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 24px 249.36px 25px 2px;
+
+width: 396.36px;
+height: 73px;
+
+/* www.betterhelp.com/Stack */
+border-bottom: 1px solid #939b92;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Group sessions  */
+
+width: 121px;
+height: 22px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+display: flex;
+align-items: center;
+
+/* www.betterhelp.com/Gray Nurse */
+color: #f5f7f5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px -1.42109e-14px;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 24px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Image */
+
+width: 24px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* info-light-green.svg fill */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* info-light-green.svg */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #0097b2;
+
+/* Data */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 24px 83px 25px 82.98px;
+isolation: isolate;
+
+width: 197.98px;
+height: 73px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Overlay+Shadow */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0.5px;
+bottom: 0.5px;
+
+/* www.betterhelp.com/White 0.2% */
+background: rgba(255, 255, 255, 0.002);
+box-shadow: 0px 0px 26px rgba(0, 0, 0, 0.15);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0.5px;
+bottom: 0.5px;
+
+/* www.betterhelp.com/White */
+background: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+/* Data paints */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* www.betterhelp.com/White */
+background: #ffffff;
+/* www.betterhelp.com/Gray Nurse */
+border-bottom: 1px solid #e7ece7;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+/* Background */
+
+width: 32px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+/* yes.svg fill */
+
+position: absolute;
+width: 32px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* yes.svg */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: calc(50% - 32px / 2);
+top: calc(50% - 32px / 2);
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #d3f9ff;
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 8.33%;
+top: 16.67%;
+bottom: 41.67%;
+
+border: 3px solid #0097b2;
+
+/* Yes */
+
+position: absolute;
+width: 27.45px;
+height: 32px;
+left: calc(50% - 27.45px / 2 - 4999.31px);
+top: 0px;
+
+/* www.betterhelp.com/Inter/Regular 16 */
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* www.betterhelp.com/Gray Asparagus */
+color: #4a4d4a;
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 24.5px 83.02px 16.5px 83px;
+
+width: 198.02px;
+height: 73px;
+
+/* www.betterhelp.com/Stack */
+border-bottom: 1px solid #939b92;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 9999.01px 0px 0px;
+isolation: isolate;
+
+width: 32px;
+height: 32px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+left: 6.25%;
+right: 6.25%;
+top: 0%;
+bottom: 9.38%;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 28px;
+height: 29px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Icon */
+
+width: 28px;
+height: 29px;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 98.28%;
+bottom: -94.83%;
+
+/* www.betterhelp.com/Stack */
+background: #939b92;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+/* Unsure */
+
+width: 54px;
+height: 32px;
+
+/* www.betterhelp.com/Inter/Regular 16 */
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* www.betterhelp.com/Gray Asparagus */
+color: #4a4d4a;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+/* Row */
+
+box-sizing: border-box;
+
+width: 792px;
+height: 73px;
+
+/* www.betterhelp.com/Stack */
+border-top: 1px solid #939b92;
+
+/* Inside auto layout */
+flex: none;
+order: 9;
+flex-grow: 0;
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 24px 83.02px 25px 83px;
+
+position: absolute;
+height: 73px;
+left: 75%;
+right: 0%;
+top: calc(50% - 73px / 2);
+
+/* www.betterhelp.com/Stack */
+border-bottom: 1px solid #939b92;
+
+/* Background */
+
+width: 32px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* no.svg fill */
+
+position: absolute;
+width: 32px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* no.svg */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: calc(50% - 32px / 2);
+top: calc(50% - 32px / 2);
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 20.83%;
+bottom: 20.83%;
+
+/* www.betterhelp.com/Burnt Sienna */
+background: #eb5757;
+
+/* No */
+
+position: absolute;
+width: 21.92px;
+height: 32px;
+left: calc(50% - 21.92px / 2 - 4999.33px);
+top: 0px;
+
+/* www.betterhelp.com/Inter/Regular 16 */
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* www.betterhelp.com/Gray Asparagus */
+color: #4a4d4a;
+
+/* Cell */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 24px 178.52px 25px 2px;
+gap: 0px;
+
+position: absolute;
+width: 396.52px;
+height: 73px;
+left: 0px;
+top: calc(50% - 73px / 2);
+
+/* www.betterhelp.com/Stack */
+border-bottom: 1px solid #939b92;
+
+/* Smart provider matching  */
+
+width: 192px;
+height: 22px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+display: flex;
+align-items: center;
+
+/* www.betterhelp.com/Gray Nurse */
+color: #f5f7f5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 24px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Image */
+
+width: 24px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* info-light-green.svg fill */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* info-light-green.svg */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #0097b2;
+
+/* Data */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 24px 83px 25px 82.98px;
+isolation: isolate;
+
+position: absolute;
+height: 73px;
+left: 50%;
+right: 25%;
+top: calc(50% - 73px / 2);
+
+/* Overlay+Shadow */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0.5px;
+bottom: 0.5px;
+
+/* www.betterhelp.com/White 0.2% */
+background: rgba(255, 255, 255, 0.002);
+box-shadow: 0px 0px 26px rgba(0, 0, 0, 0.15);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0.5px;
+bottom: 0.5px;
+
+/* www.betterhelp.com/White */
+background: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+/* Data paints */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* www.betterhelp.com/White */
+background: #ffffff;
+/* www.betterhelp.com/Gray Nurse */
+border-bottom: 1px solid #e7ece7;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+/* Background */
+
+width: 32px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+/* yes.svg fill */
+
+position: absolute;
+width: 32px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* yes.svg */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: calc(50% - 32px / 2);
+top: calc(50% - 32px / 2);
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #d3f9ff;
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 8.33%;
+top: 16.67%;
+bottom: 41.67%;
+
+border: 3px solid #0097b2;
+
+/* Yes */
+
+position: absolute;
+width: 27.45px;
+height: 32px;
+left: calc(50% - 27.45px / 2 - 4999.31px);
+top: 0px;
+
+/* www.betterhelp.com/Inter/Regular 16 */
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* www.betterhelp.com/Gray Asparagus */
+color: #4a4d4a;
+
+/* Row */
+
+box-sizing: border-box;
+
+width: 792px;
+height: 73px;
+
+/* www.betterhelp.com/Stack */
+border-top: 1px solid #939b92;
+
+/* Inside auto layout */
+flex: none;
+order: 10;
+flex-grow: 0;
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 24px 83.02px 25px 83px;
+
+position: absolute;
+height: 73px;
+left: 75%;
+right: 0%;
+top: calc(50% - 73px / 2);
+
+/* www.betterhelp.com/Stack */
+border-bottom: 1px solid #939b92;
+
+/* Background */
+
+width: 32px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* no.svg fill */
+
+position: absolute;
+width: 32px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* no.svg */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: calc(50% - 32px / 2);
+top: calc(50% - 32px / 2);
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 20.83%;
+bottom: 20.83%;
+
+/* www.betterhelp.com/Burnt Sienna */
+background: #eb5757;
+
+/* No */
+
+position: absolute;
+width: 21.92px;
+height: 32px;
+left: calc(50% - 21.92px / 2 - 4999.33px);
+top: 0px;
+
+/* www.betterhelp.com/Inter/Regular 16 */
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* www.betterhelp.com/Gray Asparagus */
+color: #4a4d4a;
+
+/* Cell */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 24px 180.66px 25px 2px;
+gap: 0px;
+
+position: absolute;
+width: 396.66px;
+height: 73px;
+left: 0px;
+top: calc(50% - 73px / 2);
+
+/* www.betterhelp.com/Stack */
+border-bottom: 1px solid #939b92;
+
+/* Easy to switch providers  */
+
+width: 190px;
+height: 22px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+display: flex;
+align-items: center;
+
+/* www.betterhelp.com/Gray Nurse */
+color: #f5f7f5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 24px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Image */
+
+width: 24px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* info-light-green.svg fill */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* info-light-green.svg */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #0097b2;
+
+/* Data */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 24px 83px 25px 82.98px;
+isolation: isolate;
+
+position: absolute;
+height: 73px;
+left: 50%;
+right: 25%;
+top: calc(50% - 73px / 2);
+
+/* Overlay+Shadow */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0.5px;
+bottom: 0.5px;
+
+/* www.betterhelp.com/White 0.2% */
+background: rgba(255, 255, 255, 0.002);
+box-shadow: 0px 0px 26px rgba(0, 0, 0, 0.15);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0.5px;
+bottom: 0.5px;
+
+/* www.betterhelp.com/White */
+background: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+/* Data paints */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* www.betterhelp.com/White */
+background: #ffffff;
+/* www.betterhelp.com/Gray Nurse */
+border-bottom: 1px solid #e7ece7;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+/* Background */
+
+width: 32px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+/* yes.svg fill */
+
+position: absolute;
+width: 32px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* yes.svg */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: calc(50% - 32px / 2);
+top: calc(50% - 32px / 2);
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #d3f9ff;
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 8.33%;
+top: 16.67%;
+bottom: 41.67%;
+
+border: 3px solid #0097b2;
+
+/* Yes */
+
+position: absolute;
+width: 27.45px;
+height: 32px;
+left: calc(50% - 27.45px / 2 - 4999.31px);
+top: 0px;
+
+/* www.betterhelp.com/Inter/Regular 16 */
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* www.betterhelp.com/Gray Asparagus */
+color: #4a4d4a;
+
+/* Row */
+
+box-sizing: border-box;
+
+width: 792px;
+height: 73px;
+
+/* www.betterhelp.com/Stack */
+border-top: 1px solid #939b92;
+
+/* Inside auto layout */
+flex: none;
+order: 11;
+flex-grow: 0;
+
+/* Data */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 24px 83.02px 25px 83px;
+
+position: absolute;
+height: 73px;
+left: 75%;
+right: 0%;
+top: calc(50% - 73px / 2);
+
+/* www.betterhelp.com/Stack */
+border-bottom: 1px solid #939b92;
+
+/* Background */
+
+width: 32px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* no.svg fill */
+
+position: absolute;
+width: 32px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* no.svg */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: calc(50% - 32px / 2);
+top: calc(50% - 32px / 2);
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 20.83%;
+bottom: 20.83%;
+
+/* www.betterhelp.com/Burnt Sienna */
+background: #eb5757;
+
+/* No */
+
+position: absolute;
+width: 21.92px;
+height: 32px;
+left: calc(50% - 21.92px / 2 - 4999.33px);
+top: 0px;
+
+/* www.betterhelp.com/Inter/Regular 16 */
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* www.betterhelp.com/Gray Asparagus */
+color: #4a4d4a;
+
+/* Cell */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 24px 130.52px 25px 2px;
+gap: 0px;
+
+position: absolute;
+width: 396.52px;
+height: 73px;
+left: 0px;
+top: calc(50% - 73px / 2);
+
+/* www.betterhelp.com/Stack */
+border-bottom: 1px solid #939b92;
+
+/* Access therapy from anywhere  */
+
+width: 240px;
+height: 22px;
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+display: flex;
+align-items: center;
+
+/* www.betterhelp.com/Gray Nurse */
+color: #f5f7f5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 24px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Image */
+
+width: 24px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* info-light-green.svg fill */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* info-light-green.svg */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #0097b2;
+
+/* Data */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 24px 83px 25px 82.98px;
+isolation: isolate;
+
+position: absolute;
+height: 73px;
+left: 50%;
+right: 25%;
+top: calc(50% - 73px / 2);
+
+/* Overlay+Shadow */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0.5px;
+bottom: 0.5px;
+
+/* www.betterhelp.com/White 0.2% */
+background: rgba(255, 255, 255, 0.002);
+box-shadow: 0px 0px 26px rgba(0, 0, 0, 0.15);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0.5px;
+bottom: 0.5px;
+
+/* www.betterhelp.com/White */
+background: #ffffff;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+/* Data paints */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* www.betterhelp.com/White */
+background: #ffffff;
+/* www.betterhelp.com/Gray Nurse */
+border-bottom: 1px solid #e7ece7;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+/* Background */
+
+width: 32px;
+height: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+/* yes.svg fill */
+
+position: absolute;
+width: 32px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* yes.svg */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: calc(50% - 32px / 2);
+top: calc(50% - 32px / 2);
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #d3f9ff;
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 8.33%;
+top: 16.67%;
+bottom: 41.67%;
+
+border: 3px solid #0097b2;
+
+/* Yes */
+
+position: absolute;
+width: 27.45px;
+height: 32px;
+left: calc(50% - 27.45px / 2 - 4999.31px);
+top: 0px;
+
+/* www.betterhelp.com/Inter/Regular 16 */
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* www.betterhelp.com/Gray Asparagus */
+color: #4a4d4a;
+
+/* footer */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 28px 183px;
+gap: 10px;
+
+width: 1440px;
+height: 545px;
+
+background: rgba(255, 255, 255, 0.99);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+/* Footer UI */
+
+width: 1073px;
+height: 499px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* © 2019 Bostel, LLC */
+
+position: absolute;
+height: 17px;
+left: 44.86%;
+right: 45.07%;
+top: calc(50% - 17px / 2 + 101px);
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: center;
+
+color: #0a142f;
+
+mix-blend-mode: normal;
+opacity: 0.8;
+
+/* Request More Informa */
+
+position: absolute;
+height: 72px;
+left: 27.99%;
+right: 28.19%;
+top: calc(50% - 72px / 2 - 170.5px);
+
+font-family: "Zen Antique Soft";
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 72px;
+text-align: center;
+
+color: #0a142f;
+
+/* UPSKILL FOR A BETTER */
+
+position: absolute;
+height: 17px;
+left: 39.24%;
+right: 39.42%;
+top: calc(50% - 17px / 2 - 236px);
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 2.8px;
+text-transform: uppercase;
+
+color: #0a142f;
+
+opacity: 0.6;
+
+/* Bostel Technologies, */
+
+position: absolute;
+height: 66px;
+left: 29.79%;
+right: 29.86%;
+top: calc(50% - 66px / 2 - 95.5px);
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 33px;
+/* or 183% */
+text-align: center;
+
+color: #0a142f;
+
+mix-blend-mode: normal;
+opacity: 0.8;
+
+/* Contact Us */
+
+position: absolute;
+width: 197.4px;
+height: 60px;
+left: 620px;
+top: 255px;
+
+/* Rectangle */
+
+position: absolute;
+left: 43.06%;
+right: 43.24%;
+top: 46.79%;
+bottom: 42.2%;
+
+background: #0097b2;
+box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.11);
+border-radius: 30px;
+
+/* Item.1 */
+
+position: absolute;
+height: 19px;
+left: 46.91%;
+right: 47.02%;
+top: calc(50% - 19px / 2 + 12px);
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+/* White */
+color: #ffffff;
+
+/* Line 2 */
+
+position: absolute;
+left: 12.71%;
+right: 12.85%;
+top: 79.45%;
+bottom: 20.37%;
+
+background: #0a142f;
+opacity: 0.06;
+border: 1px solid #0a142f;
+
+/* Group 3588 */
+
+position: absolute;
+width: 301px;
+height: 19px;
+left: 566px;
+top: 481px;
+
+/* Team */
+
+position: absolute;
+height: 19px;
+left: 39.31%;
+right: 57.5%;
+top: calc(50% - 19px / 2 + 218px);
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #0a142f;
+
+/* Case Studies */
+
+position: absolute;
+height: 19px;
+left: 46.04%;
+right: 49.24%;
+top: calc(50% - 19px / 2 + 218px);
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+color: #0a142f;
+
+/* Publications */
+
+position: absolute;
+height: 19px;
+left: 54.44%;
+right: 39.79%;
+top: calc(50% - 19px / 2 + 218px);
+
+font-family: "Inter";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #0a142f;
+
+/* Social */
+
+position: absolute;
+width: 255px;
+height: 45px;
+left: 1001px;
+top: 468px;
+
+/* Facebook */
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 1071px;
+top: 468px;
+
+/* facebook */
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 1071px;
+top: 468px;
+
+/* Oval Copy */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 74.38%;
+right: 22.5%;
+top: 85.87%;
+bottom: 5.87%;
+
+opacity: 0.1;
+border: 2px solid #0a142f;
+
+/* Shape */
+
+position: absolute;
+left: 75.62%;
+right: 23.75%;
+top: 88.62%;
+bottom: 8.74%;
+
+background: #0a142f;
+
+/* Youtube */
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 1211px;
+top: 468px;
+
+/* twitter */
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 1211px;
+top: 468px;
+
+/* Oval Copy */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 84.1%;
+right: 12.78%;
+top: 85.87%;
+bottom: 5.87%;
+
+opacity: 0.1;
+border: 2px solid #0a142f;
+
+/* bxl-youtube */
+
+position: absolute;
+width: 16px;
+height: 11px;
+left: 1226px;
+top: 485px;
+
+/* Shape */
+
+position: absolute;
+left: 85.14%;
+right: 13.75%;
+top: 88.99%;
+bottom: 8.99%;
+
+background: #0a142f;
+
+/* Path */
+
+position: absolute;
+left: 85.14%;
+right: 13.75%;
+top: 88.99%;
+bottom: 8.99%;
+
+/* Path */
+
+position: absolute;
+left: 85.58%;
+right: 14.13%;
+top: 89.57%;
+bottom: 9.57%;
+
+/* Instagram */
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 1141px;
+top: 468px;
+
+/* insta */
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 1141px;
+top: 468px;
+
+/* Oval Copy */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 79.24%;
+right: 17.64%;
+top: 85.87%;
+bottom: 5.87%;
+
+opacity: 0.1;
+border: 2px solid #0a142f;
+
+/* 16px-logo-instagram */
+
+position: absolute;
+width: 13px;
+height: 13px;
+left: 1157px;
+top: 484px;
+
+/* Oval */
+
+position: absolute;
+left: 80.98%;
+right: 18.91%;
+top: 89.24%;
+bottom: 10.47%;
+
+background: #0a142f;
+
+/* Shape */
+
+position: absolute;
+left: 80.57%;
+right: 18.98%;
+top: 89.4%;
+bottom: 9.4%;
+
+background: #0a142f;
+
+/* Path */
+
+position: absolute;
+left: 80.57%;
+right: 18.98%;
+top: 89.4%;
+bottom: 9.4%;
+
+background: #2d3344;
+
+/* Path */
+
+position: absolute;
+left: 80.69%;
+right: 19.09%;
+top: 89.7%;
+bottom: 9.7%;
+
+background: #2d3344;
+
+/* Shape */
+
+position: absolute;
+left: 80.35%;
+right: 18.75%;
+top: 88.81%;
+bottom: 8.81%;
+
+background: #0a142f;
+
+/* Path */
+
+position: absolute;
+left: 80.35%;
+right: 18.75%;
+top: 88.81%;
+bottom: 8.81%;
+
+/* Dark */
+background: #0a142f;
+
+/* Path */
+
+position: absolute;
+left: 80.46%;
+right: 18.86%;
+top: 89.11%;
+bottom: 9.11%;
+
+background: #2d3344;
+
+/* linkedin */
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 1001px;
+top: 468px;
+
+/* Oval Copy */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 69.51%;
+right: 27.36%;
+top: 85.87%;
+bottom: 5.87%;
+
+mix-blend-mode: normal;
+opacity: 0.1;
+border: 2.25px solid #0a142f;
+
+/* Linkedin icon */
+
+position: absolute;
+width: 13.5px;
+height: 13.5px;
+left: 1017px;
+top: 484px;
+
+/* linkedin */
+
+position: absolute;
+width: 13.5px;
+height: 13.5px;
+left: 1017px;
+top: 484px;
+
+/* Oval */
+
+position: absolute;
+left: 70.62%;
+right: 29.14%;
+top: 88.81%;
+bottom: 10.57%;
+
+background: #0a142f;
+
+/* Shape */
+
+position: absolute;
+left: 70.62%;
+right: 29.14%;
+top: 89.63%;
+bottom: 8.72%;
+
+background: #0a142f;
+
+/* Shape */
+
+position: absolute;
+left: 70.94%;
+right: 28.44%;
+top: 89.53%;
+bottom: 8.72%;
+
+background: #0a142f;
+
+/* Logo */
+
+position: absolute;
+width: 79.12px;
+height: 63px;
+left: 187px;
+top: 464px;
+
+/* IMG_20240804_202139-removebg (1) */
+
+position: absolute;
+width: 79.12px;
+height: 63px;
+left: 187px;
+top: 464px;
+
+background: url(IMG_20240804_202139-removebg(1));
